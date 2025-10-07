@@ -21,7 +21,7 @@ Each involved hands-on setup, measurement, and analysis to connect theory with p
 
 📸 **Experiment Setup:**  
 <p align="center">
-  <img src="./images/opamp.jpg" alt="Operational Amplifier Setup" width="450" style="transform: rotate(90deg);" />
+  <img src="./images/opanp.jpg" alt="Operational Amplifier Setup" width="450" style="transform: rotate(90deg);" />
   <br>
   <em>Figure: Op-Amp Trainer Kit used in the experiment</em>
 </p>

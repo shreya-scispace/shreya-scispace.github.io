@@ -48,7 +48,6 @@ Welcome to my academic portfolio — a glimpse into my learning journey, experim
 
 ---
 
-## 🏆 Certificates
 ## 🏅 Certificates
 
 Here are some of my verified workshops and achievements:

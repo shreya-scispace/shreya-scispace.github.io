@@ -1,21 +1,13 @@
+---
+layout: default
+title: Shreya Fal Dessai
+---
 
+# Hi — I'm Shreya 👋
 
-<!-- Profile section -->
-<div style="display: flex; align-items: center; gap: 30px; margin-top: 40px;">
+![Profile photo](/images/profile.jpg){: .profile-img }
 
-  <!-- Left-aligned photo -->
-  <img src="profile.jpg" alt="Shreya Fal Dessai" 
-       style="width: 280px; border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.25); object-fit: cover;">
-
-  <!-- About text -->
-  <div>
-    <p style="font-size: 1.2rem; line-height: 1.6; color: #333;">
-      Hi! I'm <strong>Shreya Fal Dessai</strong> — an undergraduate science student passionate about 
-      <strong>Physics</strong> and exploring interdisciplinary <strong>research</strong>.  
-      This portfolio highlights my academic journey, workshops, experiments, and research interests.
-    </p>
-  </div>
-</div>
+Welcome to my academic portfolio.  
 
 
 ---

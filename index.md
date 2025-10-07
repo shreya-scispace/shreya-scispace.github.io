@@ -25,9 +25,4 @@ body {
 </style>
 
 <div class="main-content">
-# 👩‍🔬 Shreya Fal Dessai
 
-Welcome to my undergraduate science portfolio — a collection of my academic projects, experiments, and certifications.
-
-[Explore My Experiments →](./experiments/)
-</div>

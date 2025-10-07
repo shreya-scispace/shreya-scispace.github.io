@@ -54,6 +54,13 @@ permalink: /experiments/
 ---
 
 ## 🖼️ Academic Poster
+## 🖼️ Academic Poster
+
+![The Endosymbiosis Theory](images/Endosymbiosis.png)
+
+**The Endosymbiosis Theory**  
+Conceptual poster highlighting how evolution played an important role in advancing life as we know it today.  
+*Presented during the visit of the course dean Prof. Dr. Andrew Drinnan, University of Melbourne · 2024*
 
 ![The Endosymbiosis Theory](images/Endosymbiosis.png)
 

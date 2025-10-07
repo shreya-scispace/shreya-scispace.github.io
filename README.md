@@ -55,42 +55,12 @@ permalink: /experiments/
 
 ## 🖼️ Academic Poster
 
-<style>
-.poster-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 10px;
-  text-align: center;
-  max-width: 480px;
-  margin: 0 auto;
-}
-.poster-card img {
-  width: 100%;
-  border-radius: 10px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
-  transition: transform 0.25s ease-in-out;
-}
-.poster-card img:hover {
-  transform: scale(1.03);
-}
-.caption {
-  font-size: 0.9rem;
-  color: #444;
-  line-height: 1.4;
-}
-</style>
+![The Endosymbiosis Theory](images/Endosymbiosis.png)
 
-<div class="poster-card">
-  <a href="images/Endosymbiosis.png" target="_blank">
-    <img src="images/Endosymbiosis.png" alt="The Endosymbiosis Theory">
-  </a>
-  <p class="caption">
-    <strong>The Endosymbiosis Theory</strong><br>
-    Conceptual poster highlighting how evolution played an important role in advancing life as we know it today.<br>
-    <em>Presented during the visit of the course dean Prof. Dr. Andrew Drinnan, University of Melbourne · 2024</em>
-  </p>
-</div>
+**The Endosymbiosis Theory**  
+Conceptual poster highlighting how evolution played an important role in advancing life as we know it today.  
+*Presented during the visit of the course dean Prof. Dr. Andrew Drinnan, University of Melbourne · 2024*
+
 
 ## 🏅 Certificates
 

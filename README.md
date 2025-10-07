@@ -1,20 +1,20 @@
-<table>
-  <tr>
-    <td style="width: 220px; vertical-align: middle;">
-      <img src="profile.jpg" alt="Shreya Fal Dessai" width="220" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin-right: 20px;">
-    </td>
-    <td style="vertical-align: middle; text-align: center;">
-      <h1>🌌 Shreya Fal Dessai</h1>
-      <p><b>Undergraduate Science Student | Aspiring Researcher</b></p>
-    </td>
-  </tr>
-</table>
+<!-- Profile section -->
+<div style="display: flex; align-items: center; gap: 30px; margin-top: 40px;">
 
----
+  <!-- Left-aligned photo -->
+  <img src="profile.jpg" alt="Shreya Fal Dessai" 
+       style="width: 280px; border-radius: 12px; box-shadow: 0 0 12px rgba(0,0,0,0.25); object-fit: cover;">
 
-**I am an Undergraduate Science Student at University Of Madras | Aspiring Researcher | Passionate about Physics and exploring interdisciplinary Research**
+  <!-- About text -->
+  <div>
+    <p style="font-size: 1.2rem; line-height: 1.6; color: #333;">
+      Hi! I'm <strong>Shreya Fal Dessai</strong> — an undergraduate science student passionate about 
+      <strong>Physics</strong> and exploring interdisciplinary <strong>research</strong>.  
+      This portfolio highlights my academic journey, workshops, experiments, and research interests.
+    </p>
+  </div>
+</div>
 
-Welcome to my academic portfolio — a glimpse into my learning journey, experiments, and research interests.
 
 ---
 

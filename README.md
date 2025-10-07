@@ -1,17 +1,14 @@
-
-
-
-
 <table>
   <tr>
-    <td width="180">
-      <img src="profile.jpg" alt="Shreya Fal Dessai" width="160" style="border-radius: 50%; box-shadow: 0 0 6px rgba(0,0,0,0.2);" />
+    <td style="width: 220px; vertical-align: middle;">
+      <img src="profile.jpg" alt="Shreya Fal Dessai" width="220" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin-right: 20px;">
     </td>
-    <td>
+    <td style="vertical-align: middle; text-align: center;">
       <h1>🌌 Shreya Fal Dessai</h1>
-      
----
-
+      <p><b>Undergraduate Science Student | Aspiring Researcher</b></p>
+    </td>
+  </tr>
+</table>
 
 ---
 

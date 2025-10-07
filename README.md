@@ -53,10 +53,46 @@ permalink: /experiments/
 
 ---
 
-## 🖼️ Posters Presented
-- ** Poster: Endosysmbiosis Theory
-- .Presented during the visit of the course dean Prof. Dr. Andrew Drinnanfrom University of Melbourne.
-- .Focus: To explain how evolution played an important role in advancing life as we know it today.
+## 🖼️ Academic Poster
+
+<style>
+.poster-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  text-align: center;
+  max-width: 480px;
+  margin: 0 auto;
+}
+.poster-card img {
+  width: 100%;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.15);
+  transition: transform 0.25s ease-in-out;
+}
+.poster-card img:hover {
+  transform: scale(1.03);
+}
+.caption {
+  font-size: 0.9rem;
+  color: #444;
+  line-height: 1.4;
+}
+</style>
+
+<div class="poster-card">
+  <a href="images/Endosymbiosis.png" target="_blank">
+    <img src="images/Endosymbiosis.png" alt="The Endosysmbiosis Theory">
+  </a>
+  <p class="caption">
+    <strong>Energy Conservation in Physical Systems</strong><br>
+    Conceptual poster highlighting classical and quantum perspectives of energy conservation.<br>
+    <em> · 2024</em>
+  </p>Presented during the visit of the course dean Prof. Dr. Andrew Drinnanfrom University of Melbourne.
+  - Focus: To explain how evolution played an important role in advancing life as we know it today.
+</div>
+
 
 ---
 

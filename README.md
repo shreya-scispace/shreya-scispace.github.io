@@ -62,6 +62,87 @@ permalink: /experiments/
 ## 🏅 Certificates
 
 Here are some of my verified workshops and achievements:
+## 🏅 Certificates
+
+<p>Recognitions from workshops, seminars, and academic programs that contributed to my scientific learning and outreach experience.</p>
+
+<style>
+.certificate-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+.certificate {
+  text-align: center;
+  width: 320px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+.certificate img {
+  width: 100%;
+  border-radius: 8px;
+  transition: transform 0.2s ease-in-out;
+}
+.certificate img:hover {
+  transform: scale(1.03);
+}
+.caption {
+  font-size: 0.9rem;
+  color: #444;
+  margin-top: 6px;
+  line-height: 1.4;
+}
+</style>
+
+<div class="certificate-gallery">
+
+  <!-- Astronomy Certificate -->
+  <div class="certificate">
+    <a href="images/Astronomy Certificate.png" target="_blank">
+      <img src="images/Astronomy Certificate.png" alt="Astronomy Certificate Course">
+    </a>
+    <p class="caption">
+      <strong>Astronomy Certificate Course</strong><br>
+      Association of Friends of Astronomy (Goa) – Public Astronomical Observatory<br>
+      <em>28 Feb 2024 · National Science Day</em>
+    </p>
+  </div>
+
+  <!-- Materials Science Seminar Certificate -->
+  <div class="certificate">
+    <a href="images/Advances in Material science international conference.png" target="_blank">
+      <img src="images/Advances in Material science international conference.png" alt="Materials Science Seminar Certificate">
+    </a>
+    <p class="caption">
+      <strong>International Seminar on Advances in Materials (ISAM)</strong><br>
+      Department of Materials Science, University of Madras<br>
+      <em>7 Oct 2024</em>
+    </p>
+  </div>
+
+  <!-- Mechanica Workshop Certificate -->
+  <div class="certificate">
+    <a href="images/Mechanica 2024 gen AI.png" target="_blank">
+      <img src="images/Mechanica 2024 gen AI.png" alt="Mechanica 2024 Generative AI Workshop">
+    </a>
+    <p class="caption">
+      <strong>Mechanica 2024 — Generative AI Workshop</strong><br>
+      Techobytes Technologies × MEA IIT Madras Research Park<br>
+      <em>28 – 29 Sept 2024</em>
+    </p>
+  </div>
+
+</div>
+
+---
+
+### 📜 Reflection
+Each of these experiences strengthened my academic and practical understanding of science — from hands-on observation at the Public Astronomical Observatory (Goa), to material-science discussions at the University of Madras, to applying emerging AI technologies during Mechanica 2024 at IIT Madras.  
+They represent my ongoing engagement with scientific learning and research communities.
+
 
 <p align="center">
   <a href="Astronomy Certificate.png" target="_blank">

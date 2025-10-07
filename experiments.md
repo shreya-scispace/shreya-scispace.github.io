@@ -1,6 +1,4 @@
 
-
-
 # 🧪 Physics Laboratory Experiments
 
 The following experiments were performed as part of my undergraduate Physics laboratory coursework.  

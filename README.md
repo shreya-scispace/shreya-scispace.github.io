@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="1759844067345.png" alt="Shreya Fal Dessai" width="180" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); margin-bottom: 10px;" />
-</p>
+
 
 
 
@@ -8,7 +6,7 @@
 
 
 # Shreya Fal Dessai
-**Undergraduate Science Student at University Of Madras | Aspiring Researcher | Passionate about Physics and exploring interdisciplinary Research**
+**I am an Undergraduate Science Student at University Of Madras | Aspiring Researcher | Passionate about Physics and exploring interdisciplinary Research**
 
 Welcome to my academic portfolio — a glimpse into my learning journey, experiments, and research interests.
 

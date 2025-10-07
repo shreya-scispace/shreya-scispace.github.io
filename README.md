@@ -19,9 +19,8 @@ Welcome to my academic portfolio — a glimpse into my learning journey, experim
 ---
 
 ## 🧪 Experiments
-- **Optics Lab:** Studied interference and diffraction; calculated fringe spacing using double-slit setup.  
-- **Thermodynamics Lab:** Determined specific heat capacities through experimental data analysis.  
-- **Electronics Lab:** Verified Ohm’s law and diode characteristics using circuit models.  
+- 🔬 [View My Physics Experiments →](./experiments.md)
+
 
 ---
 

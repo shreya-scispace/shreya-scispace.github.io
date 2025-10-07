@@ -67,6 +67,7 @@ Here are some of my verified workshops and achievements:
   <a href="Astronomy Certificate.png" target="_blank">
     <img src="Astronomy Certificate.png" alt="Astronomy Certificate" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
   </a>
+  
   <a href="Advances in Material science international co....png" target="_blank">
     <img src="Advances in Material science international co....png" alt="Material Science Seminar" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
   </a>

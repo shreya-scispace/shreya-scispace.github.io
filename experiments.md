@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Physics Experiments
 ---
 
@@ -19,8 +18,11 @@ Each involved hands-on setup, measurement, and analysis to connect theory with p
 **Skills Used:** Circuit setup, CRO usage, data analysis.  
 
 📸 **Experiment Setup:**  
-![Operational Amplifier Setup](./images/opamp_setup.jpg)
-*(Replace with your actual image path, e.g., `/assets/opamp.jpg`)*
+<p align="center">
+  <img src="./images/op-amp.jpg" alt="Operational Amplifier Setup' width="450' style="transform: rotate(90deg);"
+  <br>
+  <em>Figure:Op-Amp TrainerKit Usedin experiment</em>
+</p>
 
 ---
 

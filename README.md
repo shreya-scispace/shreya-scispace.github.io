@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="takeout-1-001.zip" alt="Shreya Fal Dessai" width="180" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); margin-bottom: 10px;" />
+  <img src="1759844067345.png" alt="Shreya Fal Dessai" width="180" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); margin-bottom: 10px;" />
 </p>
 
 

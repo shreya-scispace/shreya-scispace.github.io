@@ -2,13 +2,7 @@
   <img src="takeout-1-001.zip" alt="Shreya Fal Dessai" width="180" style="border-radius: 50%; box-shadow: 0 0 8px rgba(0,0,0,0.2); margin-bottom: 10px;" />
 </p>
 
-<h1 align="center">🌌 Shreya Fal Dessai</h1>
-<p align="center"><b>Undergraduate Science Student | Aspiring Researcher</b></p>
-<p align="center">
-  <a href="mailto:shreya.s.faldessai@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/shreya-fal-dessai-2101-/">💼 LinkedIn</a> •
-  <a href="https://github.com/shreya-scispace">🧑‍💻 GitHub</a>
-</p>
+
 
 ---
 

@@ -66,39 +66,6 @@ Conceptual poster highlighting how evolution played an important role in advanci
 
 <p>Recognitions from workshops, seminars, and academic programs that contributed to my scientific learning and outreach experience.</p>
 
-<style>
-.certificate-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-}
-.certificate {
-  text-align: center;
-  width: 320px;
-  background: #fff;
-  border-radius: 10px;
-  padding: 10px;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
-}
-.certificate img {
-  width: 100%;
-  border-radius: 8px;
-  transition: transform 0.2s ease-in-out;
-}
-.certificate img:hover {
-  transform: scale(1.03);
-}
-.caption {
-  font-size: 0.9rem;
-  color: #444;
-  margin-top: 6px;
-  line-height: 1.4;
-}
-</style>
-
-<div class="certificate-gallery">
-
   <!-- Astronomy Certificate -->
   <div class="certificate">
     <a href="images/Astronomy Certificate.png" target="_blank">

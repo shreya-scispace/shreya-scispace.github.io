@@ -48,10 +48,10 @@ Welcome to my academic portfolio — a glimpse into my learning journey, experim
 ---
 
 ## 📫 Contact
-📧 Email: [your.email@example.com](mailto:your.email@example.com)  
+📧 Email: [your.email@example.com](shreya.s.faldessai@gmail.com)  
 🌐 GitHub: [shreya-scispace.github.io](https://shreya-scispace.github.io)  
-🔗 LinkedIn: *(add link if available)*
+🔗 LinkedIn: (shreya-fal-dessai-2101-)
 
----
+
 
 > “The important thing is not to stop questioning. Curiosity has its own reason for existing.” — *Albert Einstein*

@@ -47,10 +47,12 @@ Welcome to my academic portfolio — a glimpse into my learning journey, experim
 
 ---
 
-<p align="center">
-📧 <a href="mailto:shreya.s.faldessai@gmail.com">shreya.s.faldessai@gmail.com</a>  
-💼 <a href="https://www.linkedin.com/in/shreya-fal-dessai-2101-/">LinkedIn</a> | 🧑‍💻 <a href="https://github.com/shreya-scispace">GitHub</a>
-</p>
+## 📫 Contact
+
+- 📧 **Email:** [shreya.s.faldessai@gmail.com](mailto:shreya.s.faldessai@gmail.com)  
+- 💼 **LinkedIn:** [shreya-fal-dessai-2101-](https://www.linkedin.com/in/shreya-fal-dessai-2101-/)  
+- 🧑‍💻 **GitHub:** [shreya-scispace](https://github.com/shreya-scispace)
+
 
 
 

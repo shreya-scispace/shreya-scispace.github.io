@@ -1,17 +1,6 @@
----
-layout: page
-title: Shreya Fal Dessai — Portfolio
-permalink: /
----
-# Shreya Fal Dessai
+<p align="center">
+  <img src="profile.jpg" alt="Shreya Fal Dessai" width="180" style="border-radius:50%; box-shadow:0 0 8px rgba(0,0,0,0.2);" />
+</p>
 
-Welcome — this is my academic and project portfolio.
-
-![Blackhole image](images/blackhole.jpg)
-
-## Quick links
-- [About](/about.md)
-- [Experiments](/experiments.md)
-- [Posters & Talks](/posters.md)
-- [Certificates](/certificates.md)
-- [Contact](/contact.md)
+# 🌌 Shreya Fal Dessai  
+**Undergraduate Science Student | Aspiring Researcher**

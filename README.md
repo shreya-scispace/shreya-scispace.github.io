@@ -54,14 +54,12 @@ permalink: /experiments/
 ---
 
 ## 🖼️ Posters Presented
-- **Energy Conservation in Physical Systems** — A visual presentation on classical and quantum perspectives.  
-- **Light–Matter Interactions** — Illustrated the photoelectric effect and emission spectra.  
+- ** Poster: Endosysmbiosis Theory
+- .Presented during the visit of the course dean Prof. Dr. Andrew Drinnanfrom University of Melbourne.
+- .Focus: To explain how evolution played an important role in advancing life as we know it today.
 
 ---
 
-## 🏅 Certificates
-
-Here are some of my verified workshops and achievements:
 ## 🏅 Certificates
 
 <p>Recognitions from workshops, seminars, and academic programs that contributed to my scientific learning and outreach experience.</p>

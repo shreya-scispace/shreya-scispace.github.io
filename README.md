@@ -54,7 +54,6 @@ permalink: /experiments/
 ---
 
 ## 🖼️ Academic Poster
-## 🖼️ Academic Poster
 
 ![The Endosymbiosis Theory](images/Endosymbiosis.png)
 

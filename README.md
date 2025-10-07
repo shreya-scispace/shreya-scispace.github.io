@@ -1,5 +1,5 @@
 # Shreya Fal Dessai
-**Undergraduate Science Student | Aspiring Researcher**
+**Undergraduate Science Student at University Of Madras | Aspiring Researcher | Passionate about Physics and exploring interdisciplinary Research**
 
 Welcome to my academic portfolio — a glimpse into my learning journey, experiments, and research interests.
 
@@ -50,7 +50,7 @@ Welcome to my academic portfolio — a glimpse into my learning journey, experim
 ## 📫 Contact
 📧 Email: [your.email@example.com](shreya.s.faldessai@gmail.com)  
 🌐 GitHub: [shreya-scispace.github.io](https://shreya-scispace.github.io)  
-🔗 LinkedIn: (shreya-fal-dessai-2101-)
+🔗 LinkedIn: [Linkedin(shreya-fal-dessai-2101-)]
 
 
 

@@ -1,11 +1,5 @@
 ---
-layout: default
-title: Shreya Fal Dessai
----
 
-# Hi — I'm Shreya 👋
-
-![Profile photo](/images/profile.jpg){: .profile-img }
 
 Welcome to my academic portfolio.  
 

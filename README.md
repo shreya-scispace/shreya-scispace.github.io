@@ -42,8 +42,30 @@ Welcome to my academic portfolio — a glimpse into my learning journey, experim
 ---
 
 ## 🏆 Certificates
-- Workshop Certificate: *Spectroscopy 2024*  
-- Seminar Participation: *Quantum Physics Colloquium 2023*  
+## 🏅 Certificates
+
+Here are some of my verified workshops and achievements:
+
+<p align="center">
+  <a href="Astronomy Certificate.png" target="_blank">
+    <img src="Astronomy Certificate.png" alt="Astronomy Certificate" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
+  </a>
+  <a href="Advances in Material science international co....png" target="_blank">
+    <img src="Advances in Material science international co....png" alt="Material Science Seminar" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
+  </a>
+  <a href="Mechanica 2024 gen AI.png" target="_blank">
+    <img src="Mechanica 2024 gen AI.png" alt="Mechanica Workshop" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
+  </a>
+</p>
+
+### 📜 Details
+
+| Certificate | Organizer | Date | Description |
+|--------------|------------|------|--------------|
+| **Astronomy Certificate Course** | Association of Friends of Astronomy (Goa) | Feb 2024 | Mastered basics of amateur astronomy and sky observation. |
+| **International Seminar on Advances in Materials (ISAM)** | Dept. of Materials Science, University of Madras | Oct 2024 | Participated in seminar on material science advancements. |
+| **Advanced Tech Workshop Series '24 — Generative AI** | IIT Madras (Techobytes Technologies) | Sept 2024 | Attended AI-focused workshop as part of Mechanica’24. |
+
 
 ---
 

@@ -144,19 +144,6 @@ Each of these experiences strengthened my academic and practical understanding o
 They represent my ongoing engagement with scientific learning and research communities.
 
 
-<p align="center">
-  <a href="Astronomy Certificate.png" target="_blank">
-    <img src="Astronomy Certificate.png" alt="Astronomy Certificate" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
-  </a>
-  
-  <a href="Advances in Material science international co....png" target="_blank">
-    <img src="Advances in Material science international co....png" alt="Material Science Seminar" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
-  </a>
-  <a href="Mechanica 2024 gen AI.png" target="_blank">
-    <img src="Mechanica 2024 gen AI.png" alt="Mechanica Workshop" width="320" style="margin: 10px; border-radius: 8px; box-shadow: 0 0 8px rgba(0,0,0,0.15);" />
-  </a>
-</p>
-
 ### 📜 Details
 
 | Certificate | Organizer | Date | Description |

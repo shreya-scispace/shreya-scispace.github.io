@@ -166,7 +166,7 @@ A departmental workshop exploring recent research and experimental techniques in
 - Gained awareness of interdisciplinary applications in **quantum devices** and **biomaterials**.  
 - Observed research poster sessions and interacted with faculty from IISc and IITM.
 
-![Gallery](/images/IMG20241007104650.jpg.jpg)  
+![Gallery](/images/IMG20241007104650.jpg)  
 
 ![Seminar](images/IMG20241007141700.jpg)  
 

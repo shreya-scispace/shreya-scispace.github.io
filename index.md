@@ -175,41 +175,9 @@ A departmental workshop exploring recent research and experimental techniques in
 
 ## 🎓 Seminars
 
-### 🧬 Seminar on Endosymbiosis Theory
-
-**Event:** B.Sc Blended Poster Exhibition  
-**Venue:** University of Madras  
-**Date:** October 2024  
-**Role:** Presenter  
-
-**Overview:**  
-Presented a poster on *The Endosymbiosis Theory*, exploring the evolutionary relationship between **prokaryotic** and **eukaryotic** cells — particularly how mitochondria and chloroplasts originated from symbiotic bacteria.
-
-**Highlights:**
-- Discussed **cellular evolution** and **symbiotic mechanisms**.  
-- Engaged with peers and faculty on **biophysics aspects** of evolution.  
-- Strengthened interdisciplinary perspective linking **physics and biology**.
-
-**Gallery:**
-![Endosymbiosis Poster](/images/Endosymbiosis.png)  
-*Poster presented at the exhibition.*
-
-![Poster Presentation](/images/Posterpre1.jpg)  
-*Presenting the poster during the event.*
-
-**Reflection:**  
-> “This poster presentation taught me how microscopic systems follow thermodynamic and statistical rules, bridging biology and physics.”
 
 ---
 
-### 🪴 Seminar on Quantum Optics Applications *(example placeholder)*
-
-**Organizer:** IISc Bangalore  
-**Date:** May 2024  
-**Role:** Participant  
-
-**Overview:**  
-Seminar on the applications of quantum optics in sensors, communication, and imaging. Introduced quantum entanglement concepts in laboratory demonstrations.
 
 ---
 

@@ -1,10 +1,4 @@
 
-  <!-- Name and Title -->
-  <div style="text-align: center;">
-    <h1>🌌 Shreya Fal Dessai</h1>
-    <p><b>Undergraduate Science Student&nbsp;|&nbsp;Aspiring Researcher</b></p>
-  </div>
-
 </div>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
 

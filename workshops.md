@@ -81,7 +81,7 @@ It featured discussions on international collaboration, cutting-edge detector te
 ---
 
 ### 🖼️ Event Poster / Gallery  
-![70 Years of CERN Seminar](/images/cern.png)  
+![70 Years of CERN Seminar](/images/Cern.png)  
 *Poster collage courtesy of IIT Madras Research Park & CERN.*
 
 ---

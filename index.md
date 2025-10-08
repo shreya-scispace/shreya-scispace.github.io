@@ -26,6 +26,11 @@ An experimental robotic setup combining physics, electronics, and embedded syste
 I’m an undergraduate student at the **University of Madras**, deeply interested in **Physics** and exploring interdisciplinary research.
 
 ---
+### Research interest
+My research interest lies in understanding the thermodynamics of biological systems, focusing on how microstates and entropy shape organization, energy flow, and stability in living matter.
+I aim to explore how statistical and quantum thermodynamics can explain the balance between order and disorder in cellular and molecular processes.
+
+---
 
 ### 💡 Highlights
 - Built and tested small physics experiment setups (Operational amplifier, Laser grating, Photocell).  
@@ -33,6 +38,69 @@ I’m an undergraduate student at the **University of Madras**, deeply intereste
 - Currently exploring **Raspberry Pi** and **ESP32** applications in scientific computational modelling.
 
 ---
+
+---
+
+### 🧬 Research Papers 
+## some of original science literature I completed reading
+
+### 📸 Key Figures in Modern Physics
+
+| ![Max Planck](images/m. planck screenshot.png) | ![Ludwig Boltzmann](images/boltzmann.jpg) | ![Albert Einstein](images/einstein.jpg) |
+|:-----------------------------:|:----------------------------------:|:------------------------------:|
+| **Max Planck (1858 – 1947)**  | **Ludwig Boltzmann (1844 – 1906)** | **Albert Einstein (1879 – 1955)** |
+| Introduced energy quantization, origin of quantum theory. | Founded statistical mechanics; linked entropy to probability. | Explained photoelectric effect and Brownian motion. |
+
+---
+
+
+> “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
+
+
+### 📖 Classical & Modern Foundations
+| Author / Year | Paper / Work | Concept | Key Insight |
+|----------------|--------------|----------|--------------|
+| **Ludwig Boltzmann (1872)** | *On the Relation between the Second Law of Thermodynamics and Probability Theory* | Statistical Mechanics | Introduced probabilistic interpretation of entropy, laying groundwork for kinetic theory. |
+| **Max Planck (1900)** | *On the Law of Distribution of Energy in the Normal Spectrum* | Quantum Theory | Proposed quantization of energy — the birth of quantum physics. |
+| **Albert Einstein (1905)** | *On a Heuristic Point of View Concerning the Production and Transformation of Light* | Photoelectric Effect | Suggested that light is quantized into photons, supporting Planck’s hypothesis. |
+| **Albert Einstein (1905)** | *On the Motion of Small Particles Suspended in Liquids at Rest* | Brownian Motion | Provided empirical evidence for atoms and molecular motion. |
+| **Niels Bohr (1913)** | *On the Constitution of Atoms and Molecules* | Atomic Structure | Developed quantized energy levels for electrons — model for hydrogen spectrum. |
+
+---
+
+### 🔬 Thermal & Statistical Physics
+| Concept Area | Key Ideas Explored | Relevance to Coursework |
+|---------------|--------------------|--------------------------|
+| **Blackbody Radiation & Energy Quantization** | Planck’s distribution law; derivation using energy quanta | Thermal Physics — foundations of modern quantum ideas |
+| **Boltzmann Distribution & Entropy** | Relationship between microstates, entropy, and macroscopic thermodynamics | Statistical Mechanics |
+| **Einstein’s Theory of Specific Heat (1907)** | Application of quantized oscillators to solids | Solid-State Physics introduction |
+| **Maxwell-Boltzmann Statistics** | Classical particle distribution and its limits | Statistical Physics core concept |
+
+---
+
+### 🧠 Literature Review Notes (Ongoing)
+**Current Theme:** Understanding the transition from classical to quantum thermodynamics through foundational papers.  
+- Comparing Planck’s quantization with Boltzmann’s statistical framework.  
+- Reviewing Einstein’s derivation for the photoelectric effect and its link to experimental results.  
+- Studying Bohr’s quantized atom to connect theoretical spectra with lab data.
+
+---
+
+### 🔍 Research Interest Link
+These studies directly inform my current project on **ESP32-based Thermal Vision**, connecting fundamental thermal radiation laws to practical sensor-based visualization.
+
+---
+
+
+
+
+
+
+
+
+
+
+
 
 ### 🧰 Skills & Tools
 `Python` · `Raspberry Pi` · `ESP32` · `Sensors` · `Markdown`

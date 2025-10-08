@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="140">
-      <img src="profile.jpg[1].jpg" alt="Shreya Fal Dessai" width="120" style="border-radius:12px;">
+      <img src="profile.jpg" alt="Shreya Fal Dessai" width="120" style="border-radius:12px;">
     </td>
     <td>
       ## Shreya Fal Dessai  

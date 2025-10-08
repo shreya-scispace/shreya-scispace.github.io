@@ -7,7 +7,7 @@ layout: page
 
 ## 🌌 Gravitational Wave Astronomy Seminar  
 **Date:** October 2025  
-**Venue:** IIT Madras (Annex Hall)  
+**Venue:** IIT Madras
 **Organized by:** Department of Physics, IIT Madras  
 
 ---
@@ -38,12 +38,6 @@ Discussed the decade-long journey since the first detection of gravitational wav
 
 ---
 
-### 💬 Panel Discussion  
-**Time:** 3:45 – 5:00 PM  
-**Panelists:** Majari Bagchi, K. G. Arun, Sriramkumar L., Ajit Kumar Mehta
-
----
-
 ### 🎥 Lecture / Resource Link  
 [Watch related lecture on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
@@ -52,7 +46,7 @@ Discussed the decade-long journey since the first detection of gravitational wav
 ### 🖼️ Event Gallery
 | Poster | During the Presentation |
 |:--:|:--:|
-| ![Gravitational Waves Poster](/images/gravwaves_poster.jpg) | ![Seminar Hall Photo](/images/gravwaves_presentation.jpg) |
+| ![Gravitational Waves Poster](/images/gravwavesposter1.jpg)
 
 ---
 

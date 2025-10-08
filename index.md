@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td width="140">
-      <img src="images/profile.jpg" alt="Shreya Fal Dessai" width="240" style="border-radius:12px;">
+      <img src="images/profile.jpg" alt="Shreya Fal Dessai" width="500" style="border-radius:12px;">
     </td>
     <td>
       ## Shreya Fal Dessai  
@@ -65,7 +65,7 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 ### 🧬 Research Papers 
   -some of original science literature I completed reading
 
-> “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
+
 
 
 ### 📖 Classical & Modern Foundations
@@ -97,8 +97,7 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 
 ---
 
-### 🔍 Research Interest Link
-These studies directly inform my current project on **ESP32-based Thermal Vision**, connecting fundamental thermal radiation laws to practical sensor-based visualization.
+> “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
 
 ---
 
@@ -110,11 +109,8 @@ These studies directly inform my current project on **ESP32-based Thermal Vision
 
 
 
-
-
-
 ### 🧰 Skills & Tools
-`Python` · `Raspberry Pi` · `ESP32` · `Sensors` · `Markdown`
+`Gen AI` · `Python` · `Raspberry Pi` · `ESP32` · `Sensors` 
 
 ---
 

@@ -4,7 +4,7 @@ title: Home
 
 # 👋 Hi, I'm Shreya Fal Dessai
 
-<img src="/images/profile.jpg[1].jpg/" alt="Shreya Fal Dessai" width="300" align="left" style="margin-right:20px; border-radius:12px;">
+<img src="/images/profile.jpg/" alt="Shreya Fal Dessai" width="300" align="left" style="margin-right:20px; border-radius:12px;">
 
 **Undergraduate student at University of Madras**  
 Aspiring Researcher | Passionate about Physics & Interdisciplinary Science  

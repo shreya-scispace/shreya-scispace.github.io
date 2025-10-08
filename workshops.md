@@ -57,4 +57,42 @@ Discussed the decade-long journey since the first detection of gravitational wav
 
 ---
 
-*Poster and schedule source: Department of Physics, IIT Madras*  
+---
+
+## ⚛️ 70 Years of CERN — Seminar  
+**Date:** [February 2025]  
+**Venue:** IIT Research Park, Chennai  
+**Organized by:** CERN & IIT Madras Research Park  
+
+---
+
+### 🎓 Overview  
+The seminar celebrated 70 years of CERN’s contributions to fundamental physics — from the discovery of the Higgs boson to ongoing advancements in particle accelerators and data science.  
+It featured discussions on international collaboration, cutting-edge detector technologies, and CERN’s future roadmap.
+
+---
+
+### 🧑‍🔬 Speakers & Highlights  
+- Overview of CERN’s global research initiatives and open data policy.  
+- Presentation on the **Large Hadron Collider (LHC)** and detector upgrades.  
+- Insights into India’s contribution to CERN experiments.  
+- Discussion on youth involvement in big science projects.
+
+---
+
+### 🖼️ Event Poster / Gallery  
+![70 Years of CERN Seminar](/images/cern70.jpg)  
+*Poster collage courtesy of IIT Madras Research Park & CERN.*
+
+---
+
+### 🪶 Key Learnings  
+- Understood CERN’s global role in fundamental physics research.  
+- Learned about particle accelerator technology and data analysis at LHC.  
+- Explored how Indian scientists collaborate in CERN experiments.  
+- Gained awareness of research opportunities for students in international labs.
+
+---
+
+*Attended by Shreya Fal Dessai (October 2025).*  
+ 

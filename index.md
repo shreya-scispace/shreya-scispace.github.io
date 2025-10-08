@@ -45,7 +45,7 @@ I aim to explore how statistical and quantum thermodynamics can explain the bala
   -some of original science literature I completed reading
 
 > “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
-| <img src="images/m. planck screenshot.png" width="180"> |
+ <img src="images/m. planck screenshot.png" width="180"> 
 
 ### 📖 Classical & Modern Foundations
 | Author / Year | Paper / Work | Concept | Key Insight |

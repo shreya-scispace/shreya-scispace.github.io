@@ -38,7 +38,20 @@ I aim to explore how statistical and quantum thermodynamics can explain the bala
 - Currently exploring **Raspberry Pi** and **ESP32** applications in scientific computational modelling.
 
 ---
+## 🧠 Poster Presentation
 
+*Title:* The Endosymbiosis Theory  
+*Event:* B.Sc Blended Poster Exhibition 
+*Date:* October 2024
+*Role:* Presenter  
+
+I presented a poster on The Endosymbiosis Theory, exploring the evolutionary link between prokaryotic and eukaryotic cells.  
+The session included discussions on cellular evolution, symbiotic relationships, and the origin of mitochondria and chloroplasts.
+
+![Poster Presentation - ](/images/Endosymbiosis.png)
+![Poster Dr. Andrew Drinnan Course Dean University of melbourne](/images/Posterpre1.jpg)
+![Poster Preparation 2](/images/Posterpre2.jpg)
+Explaining the concept of endosymbiosis during the interdisciplinary poster exhibition.
 ---
 
 ### 🧬 Research Papers 

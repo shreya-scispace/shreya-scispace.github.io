@@ -1,4 +1,22 @@
 ---
+ 
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
+
+  <!-- Profile photo -->
+  <img src="profile.jpg" alt="Shreya Fal Dessai" width="220" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+
+  <!-- Name and Title -->
+  <div style="text-align: center;">
+    <h1>🌌 Shreya Fal Dessai</h1>
+    <p><b>Undergraduate Science Student&nbsp;|&nbsp;Aspiring Researcher</b></p>
+  </div>
+
+</div>
+
+    
+
+---
+
 
 
 Welcome to my academic portfolio.  

@@ -41,7 +41,7 @@ Welcome to my academic portfolio.
 - Gained exposure to research culture, interdisciplinary collaboration, and advanced experimental setups.
 
 ### 🖼️ Photo Gallery
-| Group Photo | Campus Visit | Lab Tour |
+| Photo | Campus Visit | Lab Tour |
 |:--:|:--:|:--:|
 | ![Group Photo at IISc](/images/iisc1.jpg) | ![Campus View](/images/iisc2.jpg) | ![Lab Tour](/images/iisc3.jpg) | ![Campus View](/images/iisc4.jpg) | ![Campus View](/images/iisc5.jpg) |
 
@@ -69,22 +69,23 @@ Welcome to my academic portfolio.
 
 ## 📖 Books & Research Read
 
-### **Books Completed**
+### **Books Currently Reading**
 - *Introduction to Quantum Mechanics* — D.J. Griffiths  
 - *Concepts of Modern Physics* — Arthur Beiser  
 
-### **Currently Reading**
-- *Statistical Physics* — F. Reif  
+### **Books Completed**
+- *What is life* — Erwin Schrodinger
+- *Surely you are joking Mr. Fenynamn* — Richard Fenynamn 
 
 ### **Research Papers Read**
 - L. Boltzmann (1872): *Weitere Studien über das Wärmegleichgewicht unter Gasmolekülen*  
   - Studied the origin of the H-theorem and entropy concept.  
 - A. Einstein (1905): *On the Electrodynamics of Moving Bodies*  
   - Explored time dilation and simultaneity in special relativity.  
-
+- M. Plank (1900): On the theory of Energy Distribution Law of the Normal Spectrum
+  -[(images/mplank.png)]
 ---
 
-## 🖼️ Academic Poster
 ## 🖼️ Academic Poster
 
 ![The Endosymbiosis Theory](images/Endosymbiosis.png)

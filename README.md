@@ -1,25 +1,47 @@
+---
+title: "About Me"
+layout: page
+---
 
-## 👩‍🔬 Profile
+# 👋 Hello, I'm **Shreya Fal Dessai**
 
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: flex-start;">
+🎓 **Undergraduate Science Student** | Aspiring Researcher | Curious Mind
 
-  <!-- Profile photo (left-aligned) -->
-  <img src="profile.jpg" alt="Shreya Fal Dessai" width="230" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin-right: 20px; object-fit: cover;">
-    Welcome to my academic portfolio. 
-
-  <!-- About text (right side) -->
-  <div>
-    <h1>🌌 Shreya Fal Dessai</h1>
-    <p><b>Academic Journey In Science</b></p>
-    <p>
-      I'm an undergraduate student at the <strong>University of Madras</strong>, Aspiring to be a researcher — passionate about
-      <strong>Physics</strong> and exploring <strong>interdisciplinary Research</strong>.
-    </p>
-  </div>
-
-</div>
+Welcome to my academic and creative space!  
+I’m currently pursuing my undergraduate degree in **[University of Madras]**, with deep interests in **Physics**, **exploring interdisciplinary research**, and **scientific communication**.  
+This portfolio showcases my **academic projects**, **seminars & workshops**, **experiments**, and **research exposure**.
 
 ---
+
+## 🌌 Areas of Interest
+- Gravitational Wave Astronomy, Blacholes & Astrobiology 
+- Quantum Physics and Thermodynamics
+- Genetics, Bioenergetics
+- AI + Science Integration  
+
+---
+
+## 💡 What I Do
+I enjoy learning through hands-on experiments, attending academic talks, and exploring ways to simplify science communication.  
+My current academic journey includes:
+- Building a **ESP32 tank** project  
+- Participating in workshops like **Gravitational Waves Astronomy (IIT Madras)**  
+- Visiting research institutions like **IISc Bengaluru**  
+- Preparing for **JAM and semester exams**
+
+---
+
+## 🧠 Goals & Vision
+To know as much science to understand the universe better
+
+---
+
+
+
+---
+
+> *“Somewhere, something incredible is waiting to be known.” – Carl Sagan*  
+
 
     
 

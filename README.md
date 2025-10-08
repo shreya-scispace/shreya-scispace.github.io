@@ -64,8 +64,6 @@ To know as much science to understand the universe better
 |:--:|:--:|:--:|:--:|:--:|
 | ![Group Photo at IISc](/images/iiscgrp.jpg) | ![IISc Campus Building](/images/iisc1.jpg) | ![Inside Laboratory Visit](/images/iisc2.jpg) | ![Faculty Interaction](/images/iisc3.jpg) | ![Team Reflection Photo](/images/iisc4.jpg) |
 
-*Photos courtesy: Department of [Your College Name], IISc Bengaluru Visit (Attendee: Shreya Fal Dessai).*
-
 ---
 
 ### ✨ Key Learnings
@@ -73,8 +71,6 @@ To know as much science to understand the universe better
 - Understood practical aspects of advanced experimental physics setups.  
 - Observed collaboration between theory and applied science.  
 - Developed a deeper motivation to pursue higher research and academic exploration.
-
-
 
 
 ---

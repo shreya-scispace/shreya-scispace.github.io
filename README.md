@@ -1,5 +1,4 @@
----
- 
+
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
   <!-- Profile photo -->

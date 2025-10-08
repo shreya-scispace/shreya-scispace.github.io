@@ -49,7 +49,7 @@ I presented a poster on The Endosymbiosis Theory, exploring the evolutionary lin
 The session included discussions on cellular evolution, symbiotic relationships, and the origin of mitochondria and chloroplasts.
 
 <p align="center">
-  <img src="/</p>images/Endosysmbiosis.png" alt="Poster Presentation — Endosymbiosis" width="400"><br>
+  <img src="/images/Endosysmbiosis.png" alt="Poster Presentation — Endosymbiosis" width="400"><br>
   <em>Poster Presentation — Endosymbiosis Theory, B.Sc Blended Exhibition</em>
 
 

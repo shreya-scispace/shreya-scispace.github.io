@@ -100,11 +100,10 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 > “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
 
 ---
----
 title: Seminars & Workshops
 ---
 
-# 🧭 Seminars & Workshops
+### 🧭 Seminars & Workshops
 
 A collection of academic workshops and seminars I have attended — covering topics in modern physics, interdisciplinary science, and research exposure.
 
@@ -122,19 +121,13 @@ A collection of academic workshops and seminars I have attended — covering top
 **Overview:**  
 This one-day national workshop introduced participants to the field of **Gravitational Wave Astronomy**, exploring how gravitational waves — ripples in spacetime — are detected using interferometric detectors and what they reveal about **black hole** and **neutron star** mergers.
 
-**Key Takeaways:**
-- Learned the principles of **LIGO** and gravitational wave detection.  
-- Explored **signal “chirps”** from binary mergers and cosmic origins.  
-- Understood **data interpretation** in gravitational wave physics.  
-- Learned about **India’s contribution** through **LIGO–India**.
 
 **Speakers:**
 - Prof. **K. G. Arun** (CMI) – *The Landscape of Gravitational Wave Astronomy: Past, Present, and Future*  
 - Dr. **Sriramkumar L** (IIT Madras) – *Decoding Cosmic Origins with Rays and Ripples*  
 - Dr. **Ajit Mehta** (CMI) – *Ripples in Spacetime: Ten Years of Gravitational-Wave Physics and Astrophysics*
 
-**Panel Discussion:**  
-Moderated by *Majari Bagchi* (CMI), with *K. G. Arun*, *Sriramkumar L.*, and *Ajit Kumar Mehta.*
+
 
 **Reflection:**  
 > “This workshop was an inspiring experience that deepened my fascination with astrophysics and the universe’s unseen phenomena.”
@@ -143,11 +136,19 @@ Moderated by *Majari Bagchi* (CMI), with *K. G. Arun*, *Sriramkumar L.*, and *Aj
 ![Poster](/images/GWcollage1.png)  
 *Official posters of the workshop.*
 
+
 ![Lecture](/images/GW2.png)  
-*By Dr. Sriramkumar L.*
+*Dr. Sriramkumar L.*
+
 
 ![Talk](/images/GW3.png)  
 *Dr. Ajit Mehta.*
+
+**Key Takeaways:**
+- Learned the principles of **LIGO** and gravitational wave detection.  
+- Explored **signal “chirps”** from binary mergers and cosmic origins.  
+- Understood **data interpretation** in gravitational wave physics.  
+- Learned about **India’s contribution** through **LIGO–India**.
 
 ---
 

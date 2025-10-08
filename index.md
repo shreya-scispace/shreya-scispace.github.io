@@ -140,13 +140,13 @@ Moderated by *Majari Bagchi* (CMI), with *K. G. Arun*, *Sriramkumar L.*, and *Aj
 > “This workshop was an inspiring experience that deepened my fascination with astrophysics and the universe’s unseen phenomena.”
 
 **Event Gallery:**
-![Poster](/images/GWcollage1.jpg)  
+![Poster](/images/GWcollage1.png)  
 *Official posters of the workshop.*
 
-![Lecture](/images/GW2.jpg)  
+![Lecture](/images/GW2.png)  
 *By Dr. Sriramkumar L.*
 
-![Talk](/images/GW3.jpg)  
+![Talk](/images/GW3.png)  
 *Dr. Ajit Mehta.*
 
 ---

@@ -34,13 +34,7 @@ My current academic journey includes:
 ## 🧠 Goals & Vision
 To know as much science to understand the universe better
 
----
-
-
-
----
-
-> *“Somewhere, something incredible is waiting to be known.” – Carl Sagan*  
+--- 
 
 
     
@@ -103,7 +97,6 @@ To know as much science to understand the universe better
 
 ---
 
-## 📖 Books & Research Read
 
 ### **Books Currently Reading**
 - *Introduction to Quantum Mechanics* — D.J. Griffiths  

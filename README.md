@@ -27,16 +27,43 @@ Welcome to my academic portfolio.
 
 
 ---
+---
 
-## 🧪 Experiments
+## 🏛️ Academic Visit — Indian Institute of Science (IISc), Bengaluru  
+**Date:** [Month, Year]  
+**Organized by:** [Your College/Department Name]  
+**Purpose:** Academic exposure visit to the research facilities and laboratories at IISc.
+
+### 🔍 Highlights of the Visit
+- Visited research departments such as [Physics Department / Materials Research Centre / Astronomy & Astrophysics Division].
+- Attended an introductory talk by IISc faculty/research scholars on ongoing research work.
+- Explored laboratory setups and instrumentation used for cutting-edge research.
+- Gained exposure to research culture, interdisciplinary collaboration, and advanced experimental setups.
+
+### 🖼️ Photo Gallery
+| Group Photo | Campus Visit | Lab Tour |
+|:--:|:--:|:--:|
+| ![Group Photo at IISc](/images/iisc1.jpg) | ![Campus View](/images/iisc2.jpg) | ![Lab Tour](/images/iisc3.jpg) | ![Campus View](/images/iisc4.jpg) | ![Campus View](/images/iisc5.jpg) |
+
+
+
+---
+
+### ✨ Key Learnings
+- Understood how world-class research environments function.  
+- Observed interdisciplinary collaboration between physics, materials, and engineering sciences.  
+- Inspired by the academic atmosphere and ongoing research at IISc.  
+
+
+
+## 🧪 Experiments Performed by me
 - 🔬 [View My Physics Experiments →](./experiments.md)
 
 
 ---
 
 ## 🧬 Workshops & Seminars
-- **Spectroscopy Workshop (2024)** — Hands-on training on using spectrophotometers for absorption studies.  
-- **Seminar on Quantum Mechanics** — Explored the probabilistic interpretation of particles and uncertainty.  
+- 
 
 ---
 

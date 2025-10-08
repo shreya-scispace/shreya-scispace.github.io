@@ -7,7 +7,6 @@ title: Home
 **Undergraduate student at University of Madras**  
 Aspiring Researcher | Passionate about Physics & Interdisciplinary Science  
 
-![Profile photo](/images/profile.jpg)
 
 ---
 

@@ -42,20 +42,10 @@ I aim to explore how statistical and quantum thermodynamics can explain the bala
 ---
 
 ### 🧬 Research Papers 
-## some of original science literature I completed reading
-
-### 📸 Key Figures in Modern Physics
-
-| ![Max Planck](images/m. planck screenshot.png) | ![Ludwig Boltzmann](images/boltzmann.jpg) | ![Albert Einstein](images/einstein.jpg) |
-|:-----------------------------:|:----------------------------------:|:------------------------------:|
-| **Max Planck (1858 – 1947)**  | **Ludwig Boltzmann (1844 – 1906)** | **Albert Einstein (1879 – 1955)** |
-| Introduced energy quantization, origin of quantum theory. | Founded statistical mechanics; linked entropy to probability. | Explained photoelectric effect and Brownian motion. |
-
----
-
+  -some of original science literature I completed reading
 
 > “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
-
+| <img src="images/m. planck screenshot.png" width="180"> |
 
 ### 📖 Classical & Modern Foundations
 | Author / Year | Paper / Work | Concept | Key Insight |

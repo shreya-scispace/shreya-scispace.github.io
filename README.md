@@ -31,19 +31,33 @@
 
 ## 🏛️ Academic Visit — Indian Institute of Science (IISc), Bengaluru  
 **Date:** [Month, Year]  
-**Organized by:** [Your College/Department Name]  
-**Purpose:** Academic exposure visit to the research facilities and laboratories at IISc.
+**Organized by:** [Your College / Department Name]  
+**Purpose:** Academic exposure visit to the research facilities and laboratories at IISc, Bengaluru.
 
 ### 🔍 Highlights of the Visit
-- Visited research departments such as [Physics Department / Materials Research Centre / Astronomy & Astrophysics Division].
-- Attended an introductory talk by IISc faculty/research scholars on ongoing research work.
-- Explored laboratory setups and instrumentation used for cutting-edge research.
-- Gained exposure to research culture, interdisciplinary collaboration, and advanced experimental setups.
+- Explored key departments such as Physics, Materials Research Centre, and Instrumentation.  
+- Attended an introductory session by IISc researchers on ongoing scientific projects.  
+- Visited advanced laboratories and observed experimental setups.  
+- Interacted with faculty and research students about academic pathways.  
+- Experienced the research environment of one of India’s premier science institutions.
+
+---
 
 ### 🖼️ Photo Gallery
-| Photo | Campus Visit | Lab Tour |
-|:--:|:--:|:--:|
-| ![Group Photo at IISc](/images/iisc1.jpg) | ![Campus View](/images/iisc2.jpg) | ![Lab Tour](/images/iisc3.jpg) | ![Campus View](/images/iisc4.jpg) | ![Campus View](/images/iisc5.jpg) |
+| Group Photo | Campus View | Lab Tour | Faculty Interaction | Team Reflection |
+|:--:|:--:|:--:|:--:|:--:|
+| ![Group Photo at IISc](/images/iiscgrp.jpg) | ![IISc Campus Building](/images/iisc1.jpg) | ![Inside Laboratory Visit](/images/iisc2.jpg) | ![Faculty Interaction](/images/iisc3.jpg) | ![Team Reflection Photo](/images/iisc4.jpg) |
+
+*Photos courtesy: Department of [Your College Name], IISc Bengaluru Visit (Attendee: Shreya Fal Dessai).*
+
+---
+
+### ✨ Key Learnings
+- Gained insight into IISc’s interdisciplinary approach to science and research.  
+- Understood practical aspects of advanced experimental physics setups.  
+- Observed collaboration between theory and applied science.  
+- Developed a deeper motivation to pursue higher research and academic exploration.
+
 
 
 

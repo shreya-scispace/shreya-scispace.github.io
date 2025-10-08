@@ -2,6 +2,7 @@
 title: "About Me"
 layout: page
 ---
+<img src="/images/profile.jpg" width="180" style="border-radius: 50%; box-shadow: 0px 0px 10px rgba(0,0,0,0.3);" alt="Shreya Fal Dessai">
 
 # 👋 Hello, I'm **Shreya Fal Dessai**
 

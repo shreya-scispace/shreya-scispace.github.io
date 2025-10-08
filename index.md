@@ -48,10 +48,24 @@ I aim to explore how statistical and quantum thermodynamics can explain the bala
 I presented a poster on The Endosymbiosis Theory, exploring the evolutionary link between prokaryotic and eukaryotic cells.  
 The session included discussions on cellular evolution, symbiotic relationships, and the origin of mitochondria and chloroplasts.
 
+<p align="center">
+  <img src="/images/Endosymbiosis.png" alt="Poster Presentation — Endosymbiosis" width="600"><br>
+  <em>Poster Presentation — Endosymbiosis Theory, B.Sc Blended Exhibition</em>
+</p>
+
+<p align="center">
+  <img src="/images/Posterpre1.jpg" alt="Poster Preparation" width="500"><br>
+  <em>Poster preparation for the Endosymbiosis presentation</em>
+</p>
+
+
+
 ![Poster Presentation - ](/images/Endosymbiosis.png)
 ![Poster Dr. Andrew Drinnan Course Dean University of melbourne](/images/Posterpre1.jpg)
-![Poster Preparation 2](/images/Posterpre2.jpg)
+
 Explaining the concept of endosymbiosis during the interdisciplinary poster exhibition.
+
+
 ---
 
 ### 🧬 Research Papers 

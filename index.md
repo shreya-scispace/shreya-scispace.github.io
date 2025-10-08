@@ -1,7 +1,7 @@
 <!-- Profile photo left, intro right (no HTML beyond this small bit) -->
 <table>
   <tr>
-    <td width="140">
+    <td width="240">
       <img src="images/profile.jpg" alt="Shreya Fal Dessai" width="120" style="border-radius:12px;">
     </td>
     <td>

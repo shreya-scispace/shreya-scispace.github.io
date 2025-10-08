@@ -54,7 +54,7 @@ The session included discussions on cellular evolution, symbiotic relationships,
 
 
 <p align="center">
-  <img src="/images/Posterpre1.jpg" alt="Poster Preparation" width="500"><br>
+  <img src="/images/Posterpre2.jpg" alt="Poster Preparation" width="500"><br>
   <em>B.Sc Blended course dean Dr. Andrew Drinnan</em>
 </p>
 Explaining the concept of endosymbiosis during the interdisciplinary poster exhibition.

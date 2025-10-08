@@ -1,15 +1,20 @@
 
-</div>
-<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
+## 👩‍🔬 Profile
 
-  <!-- Profile photo -->
-  <img src="profile.jpg" alt="Shreya Fal Dessai" width="220" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3);">
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: flex-start;">
 
-  <!-- Name and Title -->
-  <div style="text-align: center;">
+  <!-- Profile photo (left-aligned) -->
+  <img src="profile.jpg" alt="Shreya Fal Dessai" width="230" style="border-radius: 12px; box-shadow: 0 0 10px rgba(0,0,0,0.3); margin-right: 20px; object-fit: cover;">
+Welcome to my academic portfolio. 
+
+  <!-- About text (right side) -->
+  <div>
     <h1>🌌 Shreya Fal Dessai</h1>
     <p><b>Undergraduate Science Student | Aspiring Researcher</b></p>
-    <p>I'm an undergraduate student at the <strong>University of Madras</strong>, aspiring to be a researcher — passionate about <strong>Physics</strong> and exploring <strong>interdisciplinary science</strong>.</p>
+    <p>
+      I'm an undergraduate student at the <strong>University of Madras</strong>, Aspiring to be a researcher — passionate about
+      <strong>Physics</strong> and exploring <strong>interdisciplinary Research</strong>.
+    </p>
   </div>
 
 </div>
@@ -18,11 +23,7 @@
 
     
 
----
-
-
-
-Welcome to my academic portfolio.  
+ 
 
 
 ---

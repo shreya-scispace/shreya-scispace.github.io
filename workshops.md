@@ -46,7 +46,7 @@ Discussed the decade-long journey since the first detection of gravitational wav
 ### 🖼️ Event Gallery
 | Poster | During the Presentation |
 |:--:|:--:|
-| ![Gravitational Waves Poster](/images/gravwavesposter1.jpg)
+| ![Gravitational Waves Poster](/images/Gravwavesposter1.jpg)
 
 ---
 

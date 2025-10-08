@@ -168,7 +168,7 @@ A departmental workshop exploring recent research and experimental techniques in
 
 ![Gallery](/images/IMG20241007104650.jpg.jpg)  
 
-![Seminar](/images/material_science_group.jpg)  
+![Seminar](images/IMG20241007141700.jpg)  
 
 
 ---

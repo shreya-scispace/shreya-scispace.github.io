@@ -100,6 +100,119 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 > “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
 
 ---
+---
+title: Seminars & Workshops
+---
+
+# 🧭 Seminars & Workshops
+
+A collection of academic workshops and seminars I have attended — covering topics in modern physics, interdisciplinary science, and research exposure.
+
+---
+
+## ⚙️ Workshops
+
+### 🌌 Workshop on Gravitational Wave Astronomy — Past, Present, and Future
+
+**Organizer:** Chennai Mathematical Institute (CMI) & Indian Institute of Technology Madras (IITM)  
+**Venue:** CMI Campus, Chennai  
+**Date:** September 2024  
+**Role:** Participant  
+
+**Overview:**  
+This one-day national workshop introduced participants to the field of **Gravitational Wave Astronomy**, exploring how gravitational waves — ripples in spacetime — are detected using interferometric detectors and what they reveal about **black hole** and **neutron star** mergers.
+
+**Key Takeaways:**
+- Learned the principles of **LIGO** and gravitational wave detection.  
+- Explored **signal “chirps”** from binary mergers and cosmic origins.  
+- Understood **data interpretation** in gravitational wave physics.  
+- Learned about **India’s contribution** through **LIGO–India**.
+
+**Speakers:**
+- Prof. **K. G. Arun** (CMI) – *The Landscape of Gravitational Wave Astronomy: Past, Present, and Future*  
+- Dr. **Sriramkumar L** (IIT Madras) – *Decoding Cosmic Origins with Rays and Ripples*  
+- Dr. **Ajit Mehta** (CMI) – *Ripples in Spacetime: Ten Years of Gravitational-Wave Physics and Astrophysics*
+
+**Panel Discussion:**  
+Moderated by *Majari Bagchi* (CMI), with *K. G. Arun*, *Sriramkumar L.*, and *Ajit Kumar Mehta.*
+
+**Reflection:**  
+> “This workshop was an inspiring experience that deepened my fascination with astrophysics and the universe’s unseen phenomena.”
+
+**Event Gallery:**
+![Poster](/images/GWcollage1.jpg)  
+*Official posters of the workshop.*
+
+![Lecture](/images/GW2.jpg)  
+*By Dr. Sriramkumar L.*
+
+![Talk](/images/GW3.jpg)  
+*Dr. Ajit Mehta.*
+
+---
+
+### 🧪 Workshop on Advances in Material Science
+
+**Organizer:** Department of Physics, University of Madras  
+**Date:** July 2024  
+**Role:** Attendee  
+
+**Overview:**  
+A departmental workshop exploring recent research and experimental techniques in **nanomaterials** and **quantum materials**. Sessions discussed how modern materials shape advancements in electronics, photonics, and interdisciplinary physics.
+
+**Key Learnings:**
+- Understood the role of **material microstructures** in physical properties.  
+- Gained awareness of interdisciplinary applications in **quantum devices** and **biomaterials**.  
+- Observed research poster sessions and interacted with faculty from IISc and IITM.
+
+![Material Science Poster](/images/material_science_poster.jpg)  
+*Official workshop poster.*
+
+![Material Science Group Photo](/images/material_science_group.jpg)  
+*Group photo with participants.*
+
+---
+
+## 🎓 Seminars
+
+### 🧬 Seminar on Endosymbiosis Theory
+
+**Event:** B.Sc Blended Poster Exhibition  
+**Venue:** University of Madras  
+**Date:** October 2024  
+**Role:** Presenter  
+
+**Overview:**  
+Presented a poster on *The Endosymbiosis Theory*, exploring the evolutionary relationship between **prokaryotic** and **eukaryotic** cells — particularly how mitochondria and chloroplasts originated from symbiotic bacteria.
+
+**Highlights:**
+- Discussed **cellular evolution** and **symbiotic mechanisms**.  
+- Engaged with peers and faculty on **biophysics aspects** of evolution.  
+- Strengthened interdisciplinary perspective linking **physics and biology**.
+
+**Gallery:**
+![Endosymbiosis Poster](/images/Endosymbiosis.png)  
+*Poster presented at the exhibition.*
+
+![Poster Presentation](/images/Posterpre1.jpg)  
+*Presenting the poster during the event.*
+
+**Reflection:**  
+> “This poster presentation taught me how microscopic systems follow thermodynamic and statistical rules, bridging biology and physics.”
+
+---
+
+### 🪴 Seminar on Quantum Optics Applications *(example placeholder)*
+
+**Organizer:** IISc Bangalore  
+**Date:** May 2024  
+**Role:** Participant  
+
+**Overview:**  
+Seminar on the applications of quantum optics in sensors, communication, and imaging. Introduced quantum entanglement concepts in laboratory demonstrations.
+
+---
+
 
 
 

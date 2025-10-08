@@ -1,4 +1,11 @@
 
+  <!-- Name and Title -->
+  <div style="text-align: center;">
+    <h1>🌌 Shreya Fal Dessai</h1>
+    <p><b>Undergraduate Science Student&nbsp;|&nbsp;Aspiring Researcher</b></p>
+  </div>
+
+</div>
 <div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap; justify-content: center;">
 
   <!-- Profile photo -->
@@ -7,10 +14,13 @@
   <!-- Name and Title -->
   <div style="text-align: center;">
     <h1>🌌 Shreya Fal Dessai</h1>
-    <p><b>Undergraduate Science Student&nbsp;|&nbsp;Aspiring Researcher</b></p>
+    <p><b>Undergraduate Science Student | Aspiring Researcher</b></p>
+    <p>I'm an undergraduate student at the <strong>University of Madras</strong>, aspiring to be a researcher — passionate about <strong>Physics</strong> and exploring <strong>interdisciplinary science</strong>.</p>
   </div>
 
 </div>
+
+---
 
     
 

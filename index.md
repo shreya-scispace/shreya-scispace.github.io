@@ -245,7 +245,7 @@ Visited CLRI to explore interdisciplinary applications of physics in biomaterial
 
 
 ## 🧩 International Seminar on Advances in Materials (ISAM)
-![Material Science Certificate](images/material_science_certificate.jpg)
+![Material Science Certificate](images/Advances in )
 
 - *Organizer:* Department of Materials Science, University of Madras, Guindy Campus  
 - *Date:* 07 October 2024  
@@ -257,7 +257,7 @@ Visited CLRI to explore interdisciplinary applications of physics in biomaterial
 ---
 
 ## 🤖 Techobyte Workshop on Generative AI
-![AI Technobyte Certificate](images/ai_technobyte_certificate.jpg)
+![AI Technobyte Certificate](images/Mechanica2024genAI.png)
 
 - *Event:* Advanced Tech Workshop Series ’24 (Mechanica, MEA IIT Madras)  
 - *Organizer:* Techobytes Technologies in collaboration with IIT Madras  
@@ -269,7 +269,7 @@ Visited CLRI to explore interdisciplinary applications of physics in biomaterial
 ---
 
 ## 🌌 Astronomy Certificate Course
-![Astronomy Certificate](images/astronomy_certificate.jpg)
+![Astronomy Certificate](images/AstronomyCertificate.png)
 
 - *Organizer:* Association of Friends of Astronomy (Goa)  
 - *Location:* Public Astronomical Observatory, Panjim  

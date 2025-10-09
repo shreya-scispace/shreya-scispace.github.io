@@ -260,7 +260,7 @@ Visited IISc as part of an academic outreach initiative. Explored advanced resea
 
 ### 🧪 Central Leather Research Institute (CLRI), Chennai
 **Date:** August 2024  
-**Focus:** Biophysics | Analytical Instruments | Material Science  
+**Focus:** Analytical Instruments 
 
 Visited CLRI to explore interdisciplinary applications of physics in biomaterials and research instrumentation.
 

@@ -4,14 +4,25 @@ Passionate about physics and exploring interdisciplinary research.
 📍 Chennai, India  
 ✉️ [Email me](mailto:shreya.s.faldessai@gmail.com)
 
-<div style="display:flex; align-items:center; gap:20px; margin-top:12px;">
-  <img src="images/profile.jpg" alt="Shreya Fal Dessai" style="width:240px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.08);" />
-  <div>
-    <h2 style="margin:0 0 6px 0;">Shreya Fal Dessai</h2>
-    <p style="margin:0;"><strong>Undergraduate Student | University of Madras</strong><br>
+<!-- Profile + About combined -->
+<div style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap; margin-top:16px;">
+
+  <!-- Profile photo -->
+  <img src="images/profile.jpg" alt="Shreya Fal Dessai" 
+       style="width:260px; border-radius:14px; box-shadow:0 4px 10px rgba(0,0,0,0.1);" />
+
+  <!-- Intro + About -->
+  <div style="flex:1; min-width:250px;">
+    <h2 style="margin-top:0;">Shreya Fal Dessai</h2>
+    <p><strong>Undergraduate Student | University of Madras</strong><br>
     Passionate about physics and exploring interdisciplinary research.<br>
     📍 Chennai, India · ✉️ <a href="mailto:shreya.s.faldessai@gmail.com">shreya.s.faldessai@gmail.com</a></p>
+
+    <h3 style="margin-top:1.2em;">About Me</h3>
+    <p>I’m an undergraduate student deeply interested in <strong>Physics</strong> and 
+    <strong>interdisciplinary research</strong>.</p>
   </div>
+
 </div>
 
 
@@ -20,11 +31,6 @@ Passionate about physics and exploring interdisciplinary research.
 ### 🔭 Current Project
 **ESP32 Tank with Thermal Vision Camera**  
 An experimental robotic setup combining physics, electronics, and embedded systems to visualize heat signatures and motion. Currently developing and testing with Python.
-
----
-
-### 🧠 About Me
-I’m an undergraduate student at the **University of Madras**, deeply interested in **Physics** and exploring interdisciplinary research.
 
 ---
 ### Research interest

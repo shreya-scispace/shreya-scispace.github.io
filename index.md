@@ -70,38 +70,55 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 
 ---
 
-### 🧬 Research Papers 
-  -some of original science literature I completed reading (TOC coming soon)
+### 🧬 Research Papers
 
+A curated list of original scientific papers and classical works I’ve studied to understand the evolution of modern physics — from thermodynamics to quantum theory.  
+This section reflects how foundational research has shaped my conceptual understanding and guided my coursework in thermal and statistical physics.
 
 
 
 ### 📖 Classical & Modern Foundations
-| Author / Year | Paper / Work | Concept | Key Insight |
-|----------------|--------------|----------|--------------|
-| **Ludwig Boltzmann (1872)** | *On the Relation between the Second Law of Thermodynamics and Probability Theory* | Statistical Mechanics | Introduced probabilistic interpretation of entropy, laying groundwork for kinetic theory. |
-| **Max Planck (1900)** | *On the Law of Distribution of Energy in the Normal Spectrum* | Quantum Theory | Proposed quantization of energy — the birth of quantum physics. |
+| **Author / Year** | **Paper / Work** | **Concept** | **Key Insight** |
+|--------------------|------------------|--------------|------------------|
+| **Ludwig Boltzmann (1872)** | *On the Relation between the Second Law of Thermodynamics and Probability Theory* | Statistical Mechanics | Introduced probabilistic interpretation of entropy, laying the groundwork for kinetic theory. |
+| **Max Planck (1900)** | *On the Law of Distribution of Energy in the Normal Spectrum* | Quantum Theory | Proposed energy quantization — the birth of quantum physics. |
 | **Albert Einstein (1905)** | *On a Heuristic Point of View Concerning the Production and Transformation of Light* | Photoelectric Effect | Suggested that light is quantized into photons, supporting Planck’s hypothesis. |
-| **Albert Einstein (1905)** | *On the Motion of Small Particles Suspended in Liquids at Rest* | Brownian Motion | Provided empirical evidence for atoms and molecular motion. |
-| **Niels Bohr (1913)** | *On the Constitution of Atoms and Molecules* | Atomic Structure | Developed quantized energy levels for electrons — model for hydrogen spectrum. |
+| **Albert Einstein (1905)** | *On the Motion of Small Particles Suspended in Liquids at Rest* | Brownian Motion | Provided empirical evidence for atomic theory through molecular motion. |
+| **Niels Bohr (1913)** | *On the Constitution of Atoms and Molecules* | Atomic Structure | Developed quantized energy levels for electrons — explaining the hydrogen spectrum. |
 
 ---
 
 ### 🔬 Thermal & Statistical Physics
-| Concept Area | Key Ideas Explored | Relevance to Coursework |
-|---------------|--------------------|--------------------------|
-| **Blackbody Radiation & Energy Quantization** | Planck’s distribution law; derivation using energy quanta | Thermal Physics — foundations of modern quantum ideas |
-| **Boltzmann Distribution & Entropy** | Relationship between microstates, entropy, and macroscopic thermodynamics | Statistical Mechanics |
-| **Einstein’s Theory of Specific Heat (1907)** | Application of quantized oscillators to solids | Solid-State Physics introduction |
-| **Maxwell-Boltzmann Statistics** | Classical particle distribution and its limits | Statistical Physics core concept |
+| **Concept Area** | **Key Ideas Explored** | **Relevance to Coursework** |
+|------------------|------------------------|------------------------------|
+| **Blackbody Radiation & Energy Quantization** | Planck’s distribution law and energy quantization | Thermal Physics — foundation of quantum ideas |
+| **Boltzmann Distribution & Entropy** | Connection between microstates, entropy, and thermodynamic probability | Statistical Mechanics |
+| **Einstein’s Theory of Specific Heat (1907)** | Quantized oscillator model for solids | Solid-State Physics |
+| **Maxwell–Boltzmann Statistics** | Classical particle distribution and its limits | Core principle in Statistical Physics |
 
 ---
 
 ### 🧠 Literature Review Notes (Ongoing)
-**Current Theme:** Understanding the transition from classical to quantum thermodynamics through foundational papers.  
-- Comparing Planck’s quantization with Boltzmann’s statistical framework.  
-- Reviewing Einstein’s derivation for the photoelectric effect and its link to experimental results.  
-- Studying Bohr’s quantized atom to connect theoretical spectra with lab data.
+
+**Current Theme:** *Transition from classical to quantum thermodynamics through foundational papers.*
+
+- Compared Planck’s quantization with Boltzmann’s statistical framework.  
+- Reviewed Einstein’s derivation for the photoelectric effect and its experimental basis.  
+- Studied Bohr’s quantized atom to connect theoretical spectra with observed emission lines.  
+- Exploring how entropy and energy quantization underpin living systems in biophysical contexts.
+
+
+
+
+
+
+
+
+
+  -some of original science literature I completed reading (TOC coming soon)
+
+
+
 
 ---
 

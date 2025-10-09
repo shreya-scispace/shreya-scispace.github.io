@@ -239,177 +239,27 @@ Visited CLRI to explore interdisciplinary applications of physics in biomaterial
 
 ---
 
-\## 🏅 Certificates
 
-<p>Recognitions from workshops, seminars, and academic programs that contributed to my scientific learning and outreach experience.</p>
+## 🏅 Certificates
 
- <!-- Astronomy Certificate -->
+Recognitions from workshops, seminars, and academic programs that contributed to my scientific learning and outreach experience.
 
- <div class="certificate">
+| Certificate | Organizer | Date | Preview |
+|--------------|------------|------|----------|
+| **Astronomy Certificate Course**<br>Association of Friends of Astronomy (Goa)<br><em>28 Feb 2024 · National Science Day</em> | Association of Friends of Astronomy (Goa) | Feb 2024 | <a href="images/Astronomy Certificate.png" target="_blank"><img src="images/Astronomy Certificate.png" alt="Astronomy Certificate" width="220"></a> |
+| **International Seminar on Advances in Materials (ISAM)**<br>Department of Materials Science, University of Madras<br><em>7 Oct 2024</em> | Dept. of Materials Science, University of Madras | Oct 2024 | <a href="images/Advances in Material science international conference.png" target="_blank"><img src="images/Advances in Material science international conference.png" alt="Materials Science Seminar" width="220"></a> |
+| **Mechanica 2024 — Generative AI Workshop**<br>Techobytes Technologies × MEA IIT Madras Research Park<br><em>28–29 Sept 2024</em> | IIT Madras (Techobytes Technologies) | Sept 2024 | <a href="images/Mechanica 2024 gen AI.png" target="_blank"><img src="images/Mechanica 2024 gen AI.png" alt="Generative AI Workshop" width="220"></a> |
 
-   <a href="images/Astronomy Certificate.png" target="_blank">
+---
 
-     <img src="images/Astronomy Certificate.png" alt="Astronomy Certificate Course">
+### 📜 Reflection
 
-   </a>
-
-   <p class="caption">
-
-     <strong>Astronomy Certificate Course</strong><br>
-
-     Association of Friends of Astronomy (Goa) – Public Astronomical Observatory<br>
-
-     <em>28 Feb 2024 · National Science Day</em>
-
-   </p>
-
- </div>
-
- <!-- Materials Science Seminar Certificate -->
-
- <div class="certificate">
-
-   <a href="images/Advances in Material science international conference.png" target="_blank">
-
-     <img src="images/Advances in Material science international conference.png" alt="Materials Science Seminar Certificate">
-
-   </a>
-
-   <p class="caption">
-
-     <strong>International Seminar on Advances in Materials (ISAM)</strong><br>
-
-     Department of Materials Science, University of Madras<br>
-
-     <em>7 Oct 2024</em>
-
-   </p>
-
- </div>
-
- <!-- Mechanica Workshop Certificate -->
-
- <div class="certificate">
-
-   <a href="images/Mechanica 2024 gen AI.png" target="_blank">
-
-     <img src="images/Mechanica 2024 gen AI.png" alt="Mechanica 2024 Generative AI Workshop">
-
-   </a>
-
-   <p class="caption">
-
-     <strong>Mechanica 2024 — Generative AI Workshop</strong><br>
-
-     Techobytes Technologies × MEA IIT Madras Research Park<br>
-
-     <em>28 – 29 Sept 2024</em>
-
-   </p>
-
- </div>
-
-</div>
-
-\---
-
-\### 📜 Reflection
-
-Each of these experiences strengthened my academic and practical understanding of science — from hands-on observation at the Public Astronomical Observatory (Goa), to material-science discussions at the University of Madras, to applying emerging AI technologies during Mechanica 2024 at IIT Madras.  
+Each of these experiences strengthened my academic and practical understanding of science — from hands-on observation at the Public Astronomical Observatory (Goa), to material-science discussions at the University of Madras, to applying emerging AI technologies during Mechanica 2024 at IIT Madras.  
 
 They represent my ongoing engagement with scientific learning and research communities.
 
-\### 📜 Details
-
-| Certificate | Organizer | Date | Description |
-
-|--------------|------------|------|--------------|
-
-| \*\*Astronomy Certificate Course\*\* | Association of Friends of Astronomy (Goa) | Feb 2024 | Mastered basics of amateur astronomy and sky observation. |
-
-| \*\*International Seminar on Advances in Materials (ISAM)\*\* | Dept. of Materials Science, University of Madras | Oct 2024 | Participated in seminar on material science advancements. |
-
-| \*\*Advanced Tech Workshop Series '24 — Generative AI\*\* | IIT Madras (Techobytes Technologies) | Sept 2024 | Attended AI-focused workshop as part of Mechanica’24. |
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# 🏅 Certificates & Achievements
-
-> A showcase of my certified participation in interdisciplinary fields spanning Physics, Materials Science, Artificial Intelligence, and Astronomy.
-
-
-## 🧩 International Seminar on Advances in Materials (ISAM)
-![Material Science Certificate](images/Advances in )
-
-- *Organizer:* Department of Materials Science, University of Madras, Guindy Campus  
-- *Date:* 07 October 2024  
-- *Type:* International Seminar  
-- *Role:* Participant  
-- *Highlights:* Discussed recent advances in materials research including thin film technology and nanomaterials.  
-> A seminar enriching my understanding of material science applications in physics.
-
----
-
-## 🤖 Techobyte Workshop on Generative AI
-![AI Technobyte Certificate](images/Mechanica2024genAI.png)
-
-- *Event:* Advanced Tech Workshop Series ’24 (Mechanica, MEA IIT Madras)  
-- *Organizer:* Techobytes Technologies in collaboration with IIT Madras  
-- *Date:* 28–29 September 2024  
-- *Role:* Participant  
-- *Focus Areas:* Generative AI, Machine Learning, and Python implementation  
-> Hands-on exposure to AI tools and applications in research and technology.
-
----
-
-## 🌌 Astronomy Certificate Course
-![Astronomy Certificate](images/AstronomyCertificate.png)
-
-- *Organizer:* Association of Friends of Astronomy (Goa)  
-- *Location:* Public Astronomical Observatory, Panjim  
-- *Date:* February 2024 (National Science Day)  
-- *Type:* Certificate of Excellence  
-- *Highlights:* Mastered basics of amateur astronomy, night sky observation, and telescope handling.  
-> An exciting introduction to observational astronomy and sky mapping.
 
 
 ### 🧰 Skills & Tools

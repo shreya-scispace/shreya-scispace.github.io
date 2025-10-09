@@ -52,7 +52,7 @@ The session included discussions on cellular evolution, symbiotic relationships,
 <p align="center">
   <img src="/images/Endosysmbiosis.png" alt="Poster Presentation — Endosymbiosis" width="400"><br>
   <em>Poster Presentation — Endosymbiosis Theory</em>
-
+</p>
 
 <p align="center">
   <img src="/images/Posterpre2.jpg" alt="Poster Preparation" width="500"><br>
@@ -64,7 +64,7 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 ---
 
 ### 🧬 Research Papers 
-  -some of original science literature I completed reading
+  -some of original science literature I completed reading (TOC coming soon)
 
 
 
@@ -195,9 +195,10 @@ A departmental workshop exploring recent research and experimental techniques in
 ---
 
 ### 📫 Contact
-- Email: [yourmail@example.com](shreya.s.faldessai@gmail.com)  
+- Email: [shreya.s.faldessai@gmail.com](mailto:shreya.s.faldessai@gmail.com)  
 - GitHub: [github.com/shreya-scispace](https://github.com/shreya-scispace)  
-- LinkedIn: *(linkedin.com/in/shreya-fal-dessai-2101-/)*
+- LinkedIn: [linkedin.com/in/shreya-fal-dessai-2101-](https://linkedin.com/in/shreya-fal-dessai-2101-)
+
 
 ---
 

@@ -100,9 +100,7 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 
 > “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*
 
----
-title: Seminars & Workshops
----
+
 
 ### 🧭 Seminars & Workshops
 

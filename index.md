@@ -179,7 +179,76 @@ A departmental workshop exploring recent research and experimental techniques in
 
 ---
 
-## 🎓 Seminars
+## 🎓Seminars
+
+
+
+---
+
+## 🏛️ Campus Visits & Outreach
+
+Exploring scientific institutions, research facilities, and outreach programs to gain exposure to diverse areas of physics and interdisciplinary science.
+
+---
+
+### 🔬 Indian Institute of Science (IISc), Bengaluru
+**Date:** February 2025 
+**Focus:** Experimental Physics | Research Environment | Campus Exposure  
+
+Visited IISc as part of an academic outreach initiative. Explored advanced research labs, interacted with scholars, and viewed poster presentations on current physics research.
+
+**Highlights:**
+- Observed lab setups for optics and spectroscopy  
+- Understood experimental procedures and data recording  
+- Explored the campus and historic research facilities  
+
+**Photo Highlights:**
+![IISc Lab](images/lab.png)  
+*Research equipment and instruments used in experimental setups.*
+
+![IISc Poster](images/iiscposter.png)  
+*Poster display.*
+
+![IISc Campus](images/iisccampus.png)  
+*The green academic environment of IISc.*
+
+---
+
+### 🧪 Central Leather Research Institute (CLRI), Chennai
+**Date:** August 2024  
+**Focus:** Instruments 
+
+
+**Highlights:**
+- Demonstration of biophysics experiments  
+- Exposure to spectroscopy and material testing instruments  
+
+**Photo Highlights:**
+![CLRI Lab](images/clri_lab.jpg)  
+*Demonstration of lab instruments during the visit.*
+
+---
+
+### 🌌 Birla Planetarium, Chennai
+**Date:** october 2024
+**Focus:** Public Science Engagement  
+
+Participated in an astronomy outreach event that introduced key concepts in gravitational waves and astrophysics.
+
+**Highlights:**
+- Attended interactive sessions and science exhibits  
+- Viewed educational posters and space models  
+
+**Photo Highlights:**
+![Exhibit Hall](images/birla_exhibit.jpg)  
+*Astronomy exhibits and interactive displays.*
+
+![Poster Session](images/birla_poster.jpg)  
+*Educational posters on gravitational wave astronomy.*
+
+---
+
+> These visits and outreach programs offered valuable real-world perspectives on how research connects with learning — strengthening my motivation to pursue physics and biophysical studies.
 
 
 ---

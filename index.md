@@ -196,7 +196,7 @@ This one-day national workshop introduced participants to the field of **Gravita
 
 ### 🧪 Seminar on Advances in Material Science
 
-**Organizer:** Department of Physics, University of Madras  
+**Organizer:** Department of Material Sciences, University of Madras  
 **Date:** July 2024  
 **Role:** Attendee  
 

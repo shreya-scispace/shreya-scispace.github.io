@@ -70,14 +70,16 @@ Explaining the concept of endosymbiosis during the interdisciplinary poster exhi
 
 ---
 
+
 ### 🧬 Research Papers
 
 A curated list of original scientific papers and classical works I’ve studied to understand the evolution of modern physics — from thermodynamics to quantum theory.  
 This section reflects how foundational research has shaped my conceptual understanding and guided my coursework in thermal and statistical physics.
 
-
+---
 
 ### 📖 Classical & Modern Foundations
+
 | **Author / Year** | **Paper / Work** | **Concept** | **Key Insight** |
 |--------------------|------------------|--------------|------------------|
 | **Ludwig Boltzmann (1872)** | *On the Relation between the Second Law of Thermodynamics and Probability Theory* | Statistical Mechanics | Introduced probabilistic interpretation of entropy, laying the groundwork for kinetic theory. |
@@ -86,9 +88,10 @@ This section reflects how foundational research has shaped my conceptual underst
 | **Albert Einstein (1905)** | *On the Motion of Small Particles Suspended in Liquids at Rest* | Brownian Motion | Provided empirical evidence for atomic theory through molecular motion. |
 | **Niels Bohr (1913)** | *On the Constitution of Atoms and Molecules* | Atomic Structure | Developed quantized energy levels for electrons — explaining the hydrogen spectrum. |
 
-
+---
 
 ### 🔬 Thermal & Statistical Physics
+
 | **Concept Area** | **Key Ideas Explored** | **Relevance to Coursework** |
 |------------------|------------------------|------------------------------|
 | **Blackbody Radiation & Energy Quantization** | Planck’s distribution law and energy quantization | Thermal Physics — foundation of quantum ideas |

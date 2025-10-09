@@ -239,13 +239,44 @@ Visited CLRI to explore interdisciplinary applications of physics in biomaterial
 
 ---
 
+# 🏅 Certificates & Achievements
+
+> A showcase of my certified participation in interdisciplinary fields spanning Physics, Materials Science, Artificial Intelligence, and Astronomy.
 
 
+## 🧩 International Seminar on Advances in Materials (ISAM)
+![Material Science Certificate](images/material_science_certificate.jpg)
 
+- *Organizer:* Department of Materials Science, University of Madras, Guindy Campus  
+- *Date:* 07 October 2024  
+- *Type:* International Seminar  
+- *Role:* Participant  
+- *Highlights:* Discussed recent advances in materials research including thin film technology and nanomaterials.  
+> A seminar enriching my understanding of material science applications in physics.
 
+---
 
+## 🤖 Techobyte Workshop on Generative AI
+![AI Technobyte Certificate](images/ai_technobyte_certificate.jpg)
 
+- *Event:* Advanced Tech Workshop Series ’24 (Mechanica, MEA IIT Madras)  
+- *Organizer:* Techobytes Technologies in collaboration with IIT Madras  
+- *Date:* 28–29 September 2024  
+- *Role:* Participant  
+- *Focus Areas:* Generative AI, Machine Learning, and Python implementation  
+> Hands-on exposure to AI tools and applications in research and technology.
 
+---
+
+## 🌌 Astronomy Certificate Course
+![Astronomy Certificate](images/astronomy_certificate.jpg)
+
+- *Organizer:* Association of Friends of Astronomy (Goa)  
+- *Location:* Public Astronomical Observatory, Panjim  
+- *Date:* February 2024 (National Science Day)  
+- *Type:* Certificate of Excellence  
+- *Highlights:* Mastered basics of amateur astronomy, night sky observation, and telescope handling.  
+> An exciting introduction to observational astronomy and sky mapping.
 
 
 ### 🧰 Skills & Tools

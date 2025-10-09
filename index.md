@@ -205,7 +205,7 @@ Visited IISc as part of an academic outreach initiative. Explored advanced resea
 
 | Lab | Poster | Campus |
 |-----|---------|--------|
-| <img src="images/lab.png" alt="IISc Lab" width="250"> | <img src="images/iiscposter.png" alt="IISc Poster" width="250"> | <img src="images/iiscampus.png" alt="IISc Campus" width="250"> |
+| <img src="images/lab.png" alt="IISc Lab" width="260"> | <img src="images/iiscposter.png" alt="IISc Poster" width="260"> | <img src="images/iiscampus.png" alt="IISc Campus" width="260"> |
 | *experimental setups.* | *Poster display.* | *The green academic environment of IISc.* |
 
 ---

@@ -177,6 +177,11 @@ A departmental workshop exploring recent research and experimental techniques in
 ![Seminar](images/IMG20241007141700.jpg)  
 
 
+| **Mechanica 2024 — Generative AI Workshop**<br>Techobytes Technologies × MEA IIT Madras Research Park<br><em>28–29 Sept 2024</em> | IIT Madras (Techobytes Technologies) | Sept 2024 | <a href="images/TechAI%20workshop.png" target="_blank"><img src="images/TechAI%20workshop.png" alt="Generative AI Workshop Certificate" width="220"></a> |
+
+
+
+
 ---
 
 ## 🎓Seminars

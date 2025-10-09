@@ -139,7 +139,7 @@ A collection of academic workshops and seminars I have attended — covering top
 **Role:** Participant  
 
 **Overview:**  
-This one-day national workshop introduced participants to the field of **Gravitational Wave Astronomy**, exploring how gravitational waves — ripples in spacetime — are detected using interferometric detectors and what they reveal about **black hole** and **neutron star** mergers.
+This one-day national seminar introduced participants to the field of **Gravitational Wave Astronomy**, exploring how gravitational waves — ripples in spacetime — are detected using interferometric detectors and what they reveal about **black hole** and **neutron star** mergers.
 
 
 **Speakers:**
@@ -150,7 +150,7 @@ This one-day national workshop introduced participants to the field of **Gravita
 
 
 **Reflection:**  
-> “This workshop was an inspiring experience that deepened my fascination with astrophysics and the universe’s unseen phenomena.”
+> “This seminar was an inspiring experience that deepened my fascination with astrophysics and the universe’s unseen phenomena.”
 
 **Event Gallery:**
 ![Poster](/images/GWcollage1.png)  
@@ -201,7 +201,7 @@ This one-day national workshop introduced participants to the field of **Gravita
 **Role:** Attendee  
 
 **Overview:**  
-A departmental workshop exploring recent research and experimental techniques in **nanomaterials** and **quantum materials**. Sessions discussed how modern materials shape advancements in electronics, photonics, and interdisciplinary physics.
+A departmental seminar exploring recent research and experimental techniques in **nanomaterials** and **quantum materials**. Sessions discussed how modern materials shape advancements in electronics, photonics, and interdisciplinary physics.
 
 **Key Learnings:**
 - Understood the role of **material microstructures** in physical properties.  

@@ -203,10 +203,16 @@ Visited IISc as part of an academic outreach initiative. Explored advanced resea
 
 **Photo Highlights:**
 
-| Lab | Poster | Campus |
-|-----|---------|--------|
-| <img src="images/lab.png" alt="IISc Lab" width="260"> | <img src="images/iiscposter.png" alt="IISc Poster" width="260"> | <img src="images/iiscampus.png" alt="IISc Campus" width="260"> |
-| *experimental setups.* | *Poster display.* | *The green academic environment of IISc.* |
+<img src="lab.png" alt="IISc Lab" width="300"><br>
+*experimental setups.*
+
+<img src="iiscposter.png" alt="IISc Poster" width="300"><br>
+*Poster display.*
+
+<img src="iisccampus.png" alt="IISc Campus" width="300"><br>
+*The green academic environment of IISc.*
+
+
 
 ---
 

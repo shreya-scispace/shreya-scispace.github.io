@@ -203,14 +203,12 @@ Visited IISc as part of an academic outreach initiative. Explored advanced resea
 - Explored the campus and historic research facilities  
 
 **Photo Highlights:**
-![IISc Lab](images/lab.png)  
-*Research equipment and instruments used in experimental setups.*
 
-![IISc Poster](images/iiscposter.png)  
-*Poster display.*
+| Lab | Poster | Campus |
+|-----|---------|--------|
+| ![IISc Lab](images/lab.png) | ![IISc Poster](images/iiscposter.png) | ![IISc Campus](images/iiscampus.png) |
+| *Research equipment and instruments used in experimental setups.* | *Poster display highlighting ongoing research.* | *The green academic environment of IISc.* |
 
-![IISc Campus](images/iisccampus.png)  
-*The green academic environment of IISc.*
 
 ---
 

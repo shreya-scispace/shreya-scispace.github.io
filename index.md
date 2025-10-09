@@ -9,7 +9,7 @@
   <div style="flex:1; min-width:250px;">
     <h2 style="margin-top:0;">Shreya Fal Dessai</h2>
     <p>
-      <strong>B.Sc (Blended) – Physics | University of Madras (UNOM) in collaboration with the University of Melbourne</strong><br>
+      <strong>B.Sc (Blended) – Physics,Chemistry,Mathematics & Biology | University of Madras (UNOM) in collaboration with the University of Melbourne</strong><br>
       Passionate about physics and exploring interdisciplinary research.<br>
       📍 Chennai, India · ✉️ <a href="mailto:shreya.s.faldessai@gmail.com">shreya.s.faldessai@gmail.com</a>
     </p>

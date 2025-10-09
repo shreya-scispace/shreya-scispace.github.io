@@ -4,16 +4,16 @@ Passionate about physics and exploring interdisciplinary research.
 📍 Chennai, India  
 ✉️ [Email me](mailto:shreya.s.faldessai@gmail.com)
 
-<table>
-  <tr>
-    <td width="160">
-      <img src="images/profile.jpg" alt="Shreya Fal Dessai" width="180" style="border-radius:12px;">
-    </td>
-    <td>
-      I’m an undergraduate student deeply interested in **Physics** and **interdisciplinary research**, exploring how thermodynamics and quantum theory explain organization in living systems.
-    </td>
-  </tr>
-</table>
+<div style="display:flex; align-items:center; gap:20px; margin-top:12px;">
+  <img src="images/profile.jpg" alt="Shreya Fal Dessai" style="width:240px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.08);" />
+  <div>
+    <h2 style="margin:0 0 6px 0;">Shreya Fal Dessai</h2>
+    <p style="margin:0;"><strong>Undergraduate Student | University of Madras</strong><br>
+    Passionate about physics and exploring interdisciplinary research.<br>
+    📍 Chennai, India · ✉️ <a href="mailto:shreya.s.faldessai@gmail.com">shreya.s.faldessai@gmail.com</a></p>
+  </div>
+</div>
+
 
 ---
 

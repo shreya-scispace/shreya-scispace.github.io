@@ -1,9 +1,3 @@
-## Shreya Fal Dessai  
-**Undergraduate Student | University of Madras**  
-Passionate about physics and exploring interdisciplinary research.  
-📍 Chennai, India  
-✉️ [Email me](mailto:shreya.s.faldessai@gmail.com)
-
 <!-- Profile + About combined -->
 <div style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap; margin-top:16px;">
 
@@ -14,16 +8,23 @@ Passionate about physics and exploring interdisciplinary research.
   <!-- Intro + About -->
   <div style="flex:1; min-width:250px;">
     <h2 style="margin-top:0;">Shreya Fal Dessai</h2>
-    <p><strong>Undergraduate Student | University of Madras</strong><br>
-    Passionate about physics and exploring interdisciplinary research.<br>
-    📍 Chennai, India · ✉️ <a href="mailto:shreya.s.faldessai@gmail.com">shreya.s.faldessai@gmail.com</a></p>
+    <p>
+      <strong>B.Sc (Blended) – Physics | University of Madras (UNOM) in collaboration with the University of Melbourne</strong><br>
+      Passionate about physics and exploring interdisciplinary research.<br>
+      📍 Chennai, India · ✉️ <a href="mailto:shreya.s.faldessai@gmail.com">shreya.s.faldessai@gmail.com</a>
+    </p>
 
     <h3 style="margin-top:1.2em;">About Me</h3>
-    <p>I’m an undergraduate student deeply interested in <strong>Physics</strong> and 
-    <strong>interdisciplinary research</strong>.</p>
+    <p>
+      I’m an undergraduate student deeply interested in <strong>Physics</strong> and 
+      <strong>interdisciplinary research</strong>, exploring how thermodynamics and 
+      quantum theory explain energy flow, entropy, and organization in living systems.  
+      My goal is to bridge physics and biophysics through analytical and experimental approaches.
+    </p>
   </div>
 
 </div>
+
 
 
 ---

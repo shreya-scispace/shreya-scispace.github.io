@@ -165,7 +165,7 @@ This one-day national workshop introduced participants to the field of **Gravita
   <p class="caption">
     <strong>International Seminar — 70 Years of CERN</strong><br>
     Department of Physics, IIT Madras<br>
-    <em>10 August 2024</em><br>
+    <em>22February 2025</em><br>
     Commemorating seven decades of CERN’s contributions to particle physics — discussions on the Large Hadron Collider, Higgs boson discovery, and the future of fundamental research.
   </p>
 

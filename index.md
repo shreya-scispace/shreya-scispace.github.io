@@ -158,22 +158,22 @@ This one-day national workshop introduced participants to the field of **Gravita
 
 ---
 
-Organiser: IIT Madras
 <!-- CERN Seminar -->
 
 <div class="seminar">
-  <a href="images/Cern.png" target="_blank">
-    <img src="images/Cern.png" alt="70 Years of CERN Seminar IIT Madras">
-  </a>
+
   <p class="caption">
     <strong>International Seminar — 70 Years of CERN</strong><br>
     Department of Physics, IIT Madras<br>
     <em>10 August 2024</em><br>
     Commemorating seven decades of CERN’s contributions to particle physics — discussions on the Large Hadron Collider, Higgs boson discovery, and the future of fundamental research.
   </p>
+
+  <a href="images/Cern.png" target="_blank">
+    <img src="images/Cern.png" alt="70 Years of CERN Seminar IIT Madras">
+  </a>
+
 </div>
-
-
 
 
 

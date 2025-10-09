@@ -265,8 +265,11 @@ Visited IISc as part of an academic outreach initiative. Explored advanced resea
 Visited CLRI to explore interdisciplinary applications of physics in biomaterials and research instrumentation.
 
 **Highlights:**
-- Demonstration of biophysics experiments  
-- Exposure to spectroscopy and material testing instruments  
+- Observed **aerodynamics and structural testing** setups used in material research.  
+- Learned how **wind tunnels and vibration systems** simulate stress and airflow dynamics.  
+- Explored **model prototypes** for testing architectural and industrial designs.  
+- Gained insights into **instrumentation and materials testing techniques** relevant to applied physics.
+- Learned modern methods of plastic waste management  
 
 **Photo Highlights:**
 <img src="images/clri.png" alt="CLRI Lab" width="400"><br>

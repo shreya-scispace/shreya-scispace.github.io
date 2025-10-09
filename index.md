@@ -190,32 +190,6 @@ A departmental workshop exploring recent research and experimental techniques in
 Exploring scientific institutions, research facilities, and outreach programs to gain exposure to diverse areas of physics and interdisciplinary science.
 
 
-
-### 🔬 Indian Institute of Science (IISc), Bengaluru
-**Date:** February 2025 
-**Focus:** Experimental Physics | Research Environment | Campus Exposure  
-
-Visited IISc as part of an academic outreach initiative. Explored advanced research labs, interacted with scholars, and viewed poster presentations on current physics research.
-
-**Highlights:**
-- Observed lab setups for optics and spectroscopy  
-- Understood experimental procedures and data recording  
-- Explored the campus and historic research facilities  
-
-
-**Photo Highlights:**
-
-| Lab | Poster | Campus |
-|-----|---------|--------|
-| <img src="images/lab.png" alt="IISc Lab" width="280"> | <img src="images/iiscposter.png" alt="IISc Poster" width="280"> | <img src="images/iiscampus.png" alt="IISc Campus" width="280"> |
-| *Research equipment and instruments used in experimental setups.* | *Poster display highlighting ongoing research.* | *The green academic environment of IISc.* |
-
-## 🏛️ Campus Visits & Outreach
-
-Exploring scientific institutions, research facilities, and outreach programs to gain exposure to diverse areas of physics and interdisciplinary science.
-
----
-
 ### 🔬 Indian Institute of Science (IISc), Bengaluru
 **Date:** February 2025  
 **Focus:** Experimental Physics | Research Environment | Campus Exposure  
@@ -232,7 +206,7 @@ Visited IISc as part of an academic outreach initiative. Explored advanced resea
 | Lab | Poster | Campus |
 |-----|---------|--------|
 | <img src="images/lab.png" alt="IISc Lab" width="250"> | <img src="images/iiscposter.png" alt="IISc Poster" width="250"> | <img src="images/iiscampus.png" alt="IISc Campus" width="250"> |
-| *Research equipment and instruments used in experimental setups.* | *Poster display highlighting ongoing research.* | *The green academic environment of IISc.* |
+| *experimental setups.* | *Poster display.* | *The green academic environment of IISc.* |
 
 ---
 
@@ -250,29 +224,8 @@ Visited CLRI to explore interdisciplinary applications of physics in biomaterial
 <img src="images/clri.png" alt="CLRI Lab" width="400"><br>
 *Demonstration of lab instruments during the visit.*
 
-
 ---
 
-> These visits and outreach programs offered valuable real-world perspectives on how research connects with learning — strengthening my motivation to pursue physics and biophysical studies.
-
-
----
-
-### 🧪 Central Leather Research Institute (CLRI), Chennai
-**Date:** August 2024  
-**Focus:** Instruments 
-
-
-**Highlights:**
-- Demonstration of biophysics experiments  
-- Exposure to spectroscopy and material testing instruments  
-
-**Photo Highlights:**
-![CLRI Lab](images/clri.png)  
-*Demonstration of lab instruments during the visit.*
-
-
----
 
 > These visits and outreach programs offered valuable real-world perspectives on how research connects with learning — strengthening my motivation to pursue physics and biophysical studies.
 

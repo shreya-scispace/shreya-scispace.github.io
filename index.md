@@ -115,9 +115,9 @@ A collection of academic workshops and seminars I have attended — covering top
 
 ---
 
-## ⚙️ Workshops
+## ⚙️ Seminars
 
-### 🌌 Workshop on Gravitational Wave Astronomy — Past, Present, and Future
+### 🌌 Seminar on Gravitational Wave Astronomy — Past, Present, and Future
 
 **Organizer:** Chennai Mathematical Institute (CMI) & Indian Institute of Technology Madras (IITM)  
 **Venue:** CMI Campus, Chennai  
@@ -158,7 +158,29 @@ This one-day national workshop introduced participants to the field of **Gravita
 
 ---
 
-### 🧪 Workshop on Advances in Material Science
+Organiser: IIT Madras
+<!-- CERN Seminar -->
+
+<div class="seminar">
+  <a href="images/Cern.png" target="_blank">
+    <img src="images/Cern.png" alt="70 Years of CERN Seminar IIT Madras">
+  </a>
+  <p class="caption">
+    <strong>International Seminar — 70 Years of CERN</strong><br>
+    Department of Physics, IIT Madras<br>
+    <em>10 August 2024</em><br>
+    Commemorating seven decades of CERN’s contributions to particle physics — discussions on the Large Hadron Collider, Higgs boson discovery, and the future of fundamental research.
+  </p>
+</div>
+
+
+
+
+
+
+
+
+### 🧪 Seminar on Advances in Material Science
 
 **Organizer:** Department of Physics, University of Madras  
 **Date:** July 2024  
@@ -177,15 +199,13 @@ A departmental workshop exploring recent research and experimental techniques in
 ![Seminar](images/IMG20241007141700.jpg)  
 
 
-| **Mechanica 2024 — Generative AI Workshop**<br>Techobytes Technologies × MEA IIT Madras Research Park<br><em>28–29 Sept 2024</em> | IIT Madras (Techobytes Technologies) | Sept 2024 | <a href="images/TechAI%20workshop.png" target="_blank"><img src="images/TechAI%20workshop.png" alt="Generative AI Workshop Certificate" width="220"></a> |
-
 
 
 
 ---
 
-## 🎓Seminars
-
+## 🎓Workshop
+| **Mechanica 2024 — Generative AI Workshop**<br>Techobytes Technologies × MEA IIT Madras Research Park<br><em>28–29 Sept 2024</em> | IIT Madras (Techobytes Technologies) | Sept 2024 | <a href="images/TechAI%20workshop.png" target="_blank"><img src="images/TechAI%20workshop.png" alt="Generative AI Workshop Certificate" width="220"></a> |
 
 
 ---

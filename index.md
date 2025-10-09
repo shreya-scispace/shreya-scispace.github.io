@@ -86,7 +86,7 @@ This section reflects how foundational research has shaped my conceptual underst
 | **Albert Einstein (1905)** | *On the Motion of Small Particles Suspended in Liquids at Rest* | Brownian Motion | Provided empirical evidence for atomic theory through molecular motion. |
 | **Niels Bohr (1913)** | *On the Constitution of Atoms and Molecules* | Atomic Structure | Developed quantized energy levels for electrons — explaining the hydrogen spectrum. |
 
----
+
 
 ### 🔬 Thermal & Statistical Physics
 | **Concept Area** | **Key Ideas Explored** | **Relevance to Coursework** |

@@ -239,6 +239,139 @@ Visited CLRI to explore interdisciplinary applications of physics in biomaterial
 
 ---
 
+\## 🏅 Certificates
+
+<p>Recognitions from workshops, seminars, and academic programs that contributed to my scientific learning and outreach experience.</p>
+
+ <!-- Astronomy Certificate -->
+
+ <div class="certificate">
+
+   <a href="images/Astronomy Certificate.png" target="_blank">
+
+     <img src="images/Astronomy Certificate.png" alt="Astronomy Certificate Course">
+
+   </a>
+
+   <p class="caption">
+
+     <strong>Astronomy Certificate Course</strong><br>
+
+     Association of Friends of Astronomy (Goa) – Public Astronomical Observatory<br>
+
+     <em>28 Feb 2024 · National Science Day</em>
+
+   </p>
+
+ </div>
+
+ <!-- Materials Science Seminar Certificate -->
+
+ <div class="certificate">
+
+   <a href="images/Advances in Material science international conference.png" target="_blank">
+
+     <img src="images/Advances in Material science international conference.png" alt="Materials Science Seminar Certificate">
+
+   </a>
+
+   <p class="caption">
+
+     <strong>International Seminar on Advances in Materials (ISAM)</strong><br>
+
+     Department of Materials Science, University of Madras<br>
+
+     <em>7 Oct 2024</em>
+
+   </p>
+
+ </div>
+
+ <!-- Mechanica Workshop Certificate -->
+
+ <div class="certificate">
+
+   <a href="images/Mechanica 2024 gen AI.png" target="_blank">
+
+     <img src="images/Mechanica 2024 gen AI.png" alt="Mechanica 2024 Generative AI Workshop">
+
+   </a>
+
+   <p class="caption">
+
+     <strong>Mechanica 2024 — Generative AI Workshop</strong><br>
+
+     Techobytes Technologies × MEA IIT Madras Research Park<br>
+
+     <em>28 – 29 Sept 2024</em>
+
+   </p>
+
+ </div>
+
+</div>
+
+\---
+
+\### 📜 Reflection
+
+Each of these experiences strengthened my academic and practical understanding of science — from hands-on observation at the Public Astronomical Observatory (Goa), to material-science discussions at the University of Madras, to applying emerging AI technologies during Mechanica 2024 at IIT Madras.  
+
+They represent my ongoing engagement with scientific learning and research communities.
+
+\### 📜 Details
+
+| Certificate | Organizer | Date | Description |
+
+|--------------|------------|------|--------------|
+
+| \*\*Astronomy Certificate Course\*\* | Association of Friends of Astronomy (Goa) | Feb 2024 | Mastered basics of amateur astronomy and sky observation. |
+
+| \*\*International Seminar on Advances in Materials (ISAM)\*\* | Dept. of Materials Science, University of Madras | Oct 2024 | Participated in seminar on material science advancements. |
+
+| \*\*Advanced Tech Workshop Series '24 — Generative AI\*\* | IIT Madras (Techobytes Technologies) | Sept 2024 | Attended AI-focused workshop as part of Mechanica’24. |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # 🏅 Certificates & Achievements
 
 > A showcase of my certified participation in interdisciplinary fields spanning Physics, Materials Science, Artificial Intelligence, and Astronomy.

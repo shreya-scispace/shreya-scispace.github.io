@@ -114,12 +114,6 @@ This section reflects how foundational research has shaped my conceptual underst
 
 
 
-
-  -some of original science literature I completed reading (TOC coming soon)
-
-
-
-
 ---
 
 > “Science is a way of thinking much more than it is a body of knowledge.” — *Carl Sagan*

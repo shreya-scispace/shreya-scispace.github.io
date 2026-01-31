@@ -1,3 +1,48 @@
+<nav class="navbar">
+  <a href="#home">Home</a>
+  <a href="#about">About</a>
+  <a href="#research">Research</a>
+  <a href="#experiments">Experiments</a>
+  <a href="#workshops">Workshops</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<style>
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background: white;
+  border-bottom: 1px solid #ddd;
+  padding: 12px 20px;
+  z-index: 1000;
+}
+
+.navbar a {
+  margin-right: 18px;
+  text-decoration: none;
+  font-weight: 500;
+  color: #333;
+}
+
+.navbar a:hover {
+  color: #0056b3;
+}
+
+body {
+  padding-top: 70px;
+}
+</style>
+
+## Home <a id="home"></a>
+## About <a id="about"></a>
+## Research Interests <a id="research"></a>
+## Experiments <a id="experiments"></a>
+## Workshops <a id="workshops"></a>
+## Contact <a id="contact"></a>
+
+
+
 <!-- Profile + About combined -->
 <div style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap; margin-top:16px;">
 

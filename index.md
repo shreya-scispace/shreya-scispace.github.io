@@ -36,6 +36,10 @@ body {
 
 ## Home <a id="home"></a>
 ## About <a id="about"></a>
+<!-- Profile + About combined -->
+<div style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap; margin-top:16px;">
+  ...
+</div>
 ## Research Interests <a id="research"></a>
 ## Experiments <a id="experiments"></a>
 ## Workshops <a id="workshops"></a>
@@ -43,8 +47,7 @@ body {
 
 
 
-<!-- Profile + About combined -->
-<div style="display:flex; align-items:flex-start; gap:24px; flex-wrap:wrap; margin-top:16px;">
+
 
   <!-- Profile photo -->
   <img src="images/profile.jpg" alt="Shreya Fal Dessai" 

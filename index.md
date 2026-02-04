@@ -26,7 +26,7 @@ body {
   position: fixed;
   top: 0;
   width: 100%;
-  background: white;
+  background: blue;
   border-bottom: 1px solid #ddd;
   padding: 14px 26px;
   z-index: 1000;
@@ -109,9 +109,8 @@ body {
       theory explain organization, energy flow, and stability in living systems.
     </p>
     <p>
-      My academic goal is to bridge <strong>physics and biophysics</strong>
-      through analytical reasoning, experimental exposure, and computational
-      tools.
+      My academic goal is to bridge <strong>physics and biology</strong>
+      through modelling, utilizing quantitative imaging and fostering interdisciplinary research and education.
     </p>
   </div>
 </section>
@@ -134,10 +133,10 @@ body {
   <h2>Projects</h2>
 
   <div class="card">
-    <strong>ESP32 Tank with Thermal Vision Camera</strong>
+    <strong>ESP32 Tank </strong>
     <p>
       Experimental robotic system combining physics, electronics, and embedded
-      systems to visualize heat signatures and motion. Developed using ESP32,
+      systems. Developed using ESP32,
       sensors, and Python-based data handling.
     </p>
   </div>

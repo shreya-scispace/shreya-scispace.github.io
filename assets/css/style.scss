@@ -1,0 +1,28 @@
+---
+---
+
+// 1. Override Cayman's color variables (this removes the blue gradient)
+$header-bg-color: #f8f9fc !default;        // light grey – matches your page
+$header-bg-color-secondary: #f8f9fc !default; // same, so no gradient
+
+// Optional: change header text to dark so it's readable
+$header-heading-color: #1e2a3a !default;
+$header-text-color: #4a5b6e !default;
+
+// 2. Import the original Cayman theme
+@import "{{ site.theme }}";
+
+// 3. Extra override – just to be absolutely sure the header block is neutral
+.page-header {
+  background: #f8f9fc !important;
+  border-bottom: 1px solid #e6ecf2; // subtle grey line instead of blue
+  color: #1e2a3a;
+
+  .project-name {
+    color: #0b1a2b;
+  }
+
+  .project-tagline {
+    color: #4a5b6e;
+  }
+}
